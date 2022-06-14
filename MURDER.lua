@@ -1,5 +1,5 @@
 --[[---------------------------------------------------------------------------
-Give the game 5-15 seconds to load, please!
+Give the script 5-10 seconds to load in order to work.
 GAME: [ https://www.roblox.com/games/4572253581/MURDER ]
 Special thanks to LoopyPawss for searching scripts for this dumb game!
 ███╗   ███╗██╗   ██╗██████╗ ██████╗ ███████╗██████╗ 
