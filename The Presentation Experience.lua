@@ -1,10 +1,45 @@
---> Greeting. Press F9 in-game to view.
-loadstring(game:HttpGet('https://pastebin.com/raw/9k2qX5d0'))()
+print("Script made by LoopyPawss.")
+print("For the game: The Presentation Experience.")
+print("Game ID: 7772810845")
+print("Game Link: https://roblox.com/games/7772810845/TPE")
+print("Made for the current version: 3/21/22")
+print("Enjoy exploiting.")
 
 wait(5)
 
 -->// General Coding \\<--
-loadstring(game:HttpGet('https://pastebin.com/raw/LAjwPSN8'))()
+
+--> Enables reset
+game:GetService("StarterGui"):SetCore("ResetButtonCallback", true)
+
+--> Redeems codes
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("NikkoCoder")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("Bookworm")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("10points")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("teachermadcuzbad")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("azureoptix")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("intensesilence")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("itsaboutdriveitsaboutpower")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("toilet")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("Poop")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("210kmembers")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("220kmembers")
+game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("push-ups")
+
+-- Coding below doesn't work, sorry
+
+--[[
+
+--> Allows your character to move around (MAY BE BUGGY!!!!)
+local plr = game.Workspace.USERNAMEHERE
+--> Removes seat
+plr.Sit:Remove()
+wait()
+--> Changes speed to normal
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+--wait()
 
 --> Please wait 5 seconds until the script is executed.
 --> This is not finished. Expect bugs while executing if this script is old.
+
+--]]
