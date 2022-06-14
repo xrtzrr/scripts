@@ -1,9 +1,20 @@
 print("Script made by LoopyPawss.")
 print("For the game: The Presentation Experience.")
 print("Game ID: 7772810845")
-print("Game Link: https://roblox.com/games/7772810845/TPE")
 print("Made for the current version: 3/21/22")
 print("Enjoy exploiting.")
+--[[
+Give the script 5 seconds to load in order to work, please!
+GAME: [ https://www.roblox.com/games/7772810845/TPE ]
+Special thanks to LoopyPawss for writing all the code for this game.
+ _________  ________  _______      
+|\___   ___\\   __  \|\  ___ \     
+\|___ \  \_\ \  \|\  \ \   __/|    
+     \ \  \ \ \   ____\ \  \_|/__  
+      \ \  \ \ \  \___|\ \  \_|\ \ 
+       \ \__\ \ \__\    \ \_______\
+        \|__|  \|__|     \|_______|
+--]]
 
 wait(5)
 
