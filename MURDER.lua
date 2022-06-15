@@ -1,8 +1,8 @@
-print("Script made by LoopyPawss.")
-print("For the game: MURDER.")
-print("Game ID: 4572253581")
-print("Made for the current version: 6/14/22")
-print("Enjoy exploiting.")
+consoleprint("Script made by LoopyPawss.")
+consoleprint("For the game: MURDER.")
+consoleprint("Game ID: 4572253581")
+consoleprint("Made for the current version: 6/14/22")
+consoleprint("Enjoy exploiting.")
 --[[---------------------------------------------------------------------------
 Give the script 5-10 seconds to load in order to work, please!
 GAME: [ https://www.roblox.com/games/4572253581/MURDER ]
