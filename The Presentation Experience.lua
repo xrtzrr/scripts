@@ -52,12 +52,13 @@ game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("push-ups")
 --[[
 
 -- Allows your character to move around (MAY BE BUGGY!!!!)
-local plr = game.Workspace.USERNAMEHERE
+local plr = game.Players.LocalPlayer.Character
+
 -- Removes seat
-plr.Sit:Remove()
+plr.Sit:Destroy()
 wait()
+
 -- Changes speed to normal
 game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
-wait()
 
 --]]
