@@ -1,4 +1,4 @@
-                                                                                                                                                         --[[
+                                                                                                                                                                   --[[
 Please wait 5 seconds until the script is executed fully.
 GAME: [ https://www.roblox.com/games/7772810845/TPE ]
 Special thanks to LoopyPawss for coding the script!
@@ -10,7 +10,7 @@ Special thanks to LoopyPawss for coding the script!
    \ \__\    \ \__\ \_______\ \__\\ _\\ \_______\ \_______\ \__\\ _\ 
     \|__|     \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__|\|__|
                                                                      
-                                                                                                                                                         ]]
+                                                                                                                                                                     ]]
 consoleprint("Script made by LoopyPawss.")
 consoleprint("For the game: The Presentation Experience")
 consoleprint("Game ID: 7772810845")
