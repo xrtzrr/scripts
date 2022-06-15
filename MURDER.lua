@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://pastebin.com/raw/gpL2gJBg", true))()
 wait(5)
 
 --> Infinite Yield
-loadstring(game:HttpGet("https://pastebin.com/raw/pD82La7B", true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 
 wait(5)
 
