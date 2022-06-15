@@ -1,4 +1,4 @@
-                                                                                                                                                         --[[
+                                                                                                                                                                      --[[
 Please wait 10 seconds until the script is executed fully.
 GAME: [ https://www.roblox.com/games/4572253581/MURDER ]
 Special thanks to LoopyPawss for searching scripts for this dumb game!
@@ -10,7 +10,7 @@ Special thanks to LoopyPawss for searching scripts for this dumb game!
    \ \__\    \ \__\ \_______\ \__\\ _\\ \_______\ \_______\ \__\\ _\ 
     \|__|     \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__|\|__|
                                                                      
-                                                                                                                                                         ]]
+                                                                                                                                                                        ]]
 consoleprint("Script made by LoopyPawss, credits to the owners of the scripts below the source code of the loadstring.")
 consoleprint("For the game: MURDER")
 consoleprint("Game ID: 4572253581")
