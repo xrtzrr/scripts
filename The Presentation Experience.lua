@@ -1,7 +1,7 @@
 print("Script made by LoopyPawss.")
 print("For the game: The Presentation Experience.")
 print("Game ID: 7772810845")
-print("Made for the current version: 3/21/22")
+print("Made for the current version/Tested at: 3/21/22")
 print("Enjoy exploiting.")
 --[[
 Give the script 5 seconds to load in order to work, please!
