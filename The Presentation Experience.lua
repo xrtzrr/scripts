@@ -18,12 +18,12 @@ Special thanks to LoopyPawss for writing all the code for this game.
 
 wait(5)
 
--->// General Coding \\<--
+-- General Coding
 
---> Enables reset
+-- Enables reset
 game:GetService("StarterGui"):SetCore("ResetButtonCallback", true)
 
---> Redeems codes
+-- Redeems codes
 game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("NikkoCoder")
 game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("Bookworm")
 game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("10points")
@@ -37,20 +37,27 @@ game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("210kmembers")
 game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("220kmembers")
 game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("push-ups")
 
+
+-- Please wait 5 seconds until the script is executed fully.
+-- This is not finished. Expect bugs while executing if this script is old.
+
+
+
+
+
+
+
 -- Coding below doesn't work, sorry
 
 --[[
 
---> Allows your character to move around (MAY BE BUGGY!!!!)
+-- Allows your character to move around (MAY BE BUGGY!!!!)
 local plr = game.Workspace.USERNAMEHERE
---> Removes seat
+-- Removes seat
 plr.Sit:Remove()
 wait()
---> Changes speed to normal
+-- Changes speed to normal
 game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
---wait()
-
---> Please wait 5 seconds until the script is executed.
---> This is not finished. Expect bugs while executing if this script is old.
+wait()
 
 --]]
