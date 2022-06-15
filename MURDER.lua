@@ -3,7 +3,7 @@ consoleprint("For the game: MURDER.")
 consoleprint("Game ID: 4572253581")
 consoleprint("Made for the current version: 6/14/22")
 consoleprint("Enjoy exploiting.")
---[[---------------------------------------------------------------------------
+                                                                                                                                                         --[[
 Give the script 5-10 seconds to load in order to work, please!
 GAME: [ https://www.roblox.com/games/4572253581/MURDER ]
 Special thanks to LoopyPawss for searching scripts for this dumb game!
@@ -15,7 +15,7 @@ Special thanks to LoopyPawss for searching scripts for this dumb game!
    \ \__\    \ \__\ \_______\ \__\\ _\\ \_______\ \_______\ \__\\ _\ 
     \|__|     \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__|\|__|
                                                                      
------------------------------------------------------------------------------]]
+                                                                                                                                                         ]]
 
 --> ESP
 loadstring(game:HttpGet("https://pastebin.com/raw/gpL2gJBg", true))()
