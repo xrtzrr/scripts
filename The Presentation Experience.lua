@@ -1,8 +1,11 @@
-print("Script made by LoopyPawss.")
-print("For the game: The Presentation Experience.")
-print("Game ID: 7772810845")
-print("Made for the current version/Tested at: 6/14/22")
-print("Enjoy exploiting.")
+-- Please wait 5 seconds until the script is executed fully.
+-- This is not finished. Expect bugs while executing if this script is 2-7 months/years old?
+
+consoleprint("Script made by LoopyPawss.")
+consoleprint("For the game: The Presentation Experience.")
+consoleprint("Game ID: 7772810845")
+consoleprint("Made for the current version/Tested at: 6/14/22")
+consoleprint("Enjoy exploiting.")
                                                                                                                                                          --[[
 Give the script 5 seconds to load in order to work, please!
 GAME: [ https://www.roblox.com/games/7772810845/TPE ]
@@ -41,6 +44,3 @@ game:GetService("ReplicatedStorage").RedeemCode:InvokeServer("push-ups")
 local char = game.Players.LocalPlayer.Character
 char.Sit:Destroy()
 char.Humanoid.WalkSpeed = 16
-
--- Please wait 5 seconds until the script is executed fully.
--- This is not finished. Expect bugs while executing if this script is old.
