@@ -11,11 +11,7 @@ Special thanks to LoopyPawss for searching scripts for this dumb game!
     \|__|     \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__|\|__|
                                                                      
                                                                                                                                                                         ]]
-consoleprint("Script made by LoopyPawss, credits to the owners of the scripts below the source code of the loadstring.")
-consoleprint("For the game: MURDER")
-consoleprint("Game ID: 4572253581")
-consoleprint("Made for the current version/Tested at: 6/14/22")
-consoleprint("Enjoy exploiting.")
+consoleprint("Script made by LoopyPawss for the game MURDER with the game ID of 4572253581, made/tested at 6/14/22")
 
 -- ESP
 loadstring(game:HttpGet("https://pastebin.com/raw/gpL2gJBg", true))()
