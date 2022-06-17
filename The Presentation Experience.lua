@@ -11,9 +11,7 @@ Special thanks to LoopyPawss for coding the script!
     \|__|     \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__|\|__|
                                                                      
                                                                                                                                                                      ]]
-consoleprint("Script made by LoopyPawss.")
-consoleprint("For the game: The Presentation Experience")
-consoleprint("Made for the current version/Tested at: 6/14/22")
+consoleprint("Script made by LoopyPawss for the game The Presentation Experience with the game ID of 7772810845, made/tested at 6/14/22")
 
 --// General Coding \\--
 
