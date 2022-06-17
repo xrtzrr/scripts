@@ -11,7 +11,7 @@ Special thanks to LoopyPawss for coding the script!
     \|__|     \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__|\|__|
                                                                      
                                                                                                                                                                      ]]
-print("Script coded by LoopyPawss for the game The Presentation Experience with the game ID of 7772810845, made/tested at 6/14/22 by LoopyPawss")
+rconsoleprint("Script coded by LoopyPawss for the game The Presentation Experience with the game ID of 7772810845, made/tested at 6/14/22 by LoopyPawss, feel free to minimize this cmd prompt so you can start exploiting, enjoy!")
 
 --// General Coding \\--
 
