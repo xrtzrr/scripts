@@ -11,7 +11,7 @@ Special thanks to LoopyPawss for searching scripts for this dumb game!
     \|__|     \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__|\|__|
                                                                      
                                                                                                                                                                         ]]
-print("Script made by LoopyPawss for the game MURDER with the game ID of 4572253581, made/tested at 6/14/22")
+print("Script coded by owners of the IY, ESP, AND Hitbox Expander for the game MURDER with the game ID of 4572253581, made/tested at 6/14/22 by LoopyPawss")
 
 -- ESP
 loadstring(game:HttpGet("https://pastebin.com/raw/gpL2gJBg", true))()
