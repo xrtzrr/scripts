@@ -13,9 +13,7 @@ Special thanks to LoopyPawss for coding the script!
                                                                                                                                                                      ]]
 consoleprint("Script made by LoopyPawss.")
 consoleprint("For the game: The Presentation Experience")
-consoleprint("Game ID: 7772810845")
 consoleprint("Made for the current version/Tested at: 6/14/22")
-consoleprint("Enjoy exploiting.")
 
 --// General Coding \\--
 
