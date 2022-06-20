@@ -2,18 +2,21 @@
 Please wait 5 seconds until the script is executed fully.
 GAME: [ https://www.roblox.com/games/7772810845/TPE ]
 Special thanks to LoopyPawss for coding the script!
- _____ ______   ___  ___  ________  ________  _______   ________     
-|\   _ \  _   \|\  \|\  \|\   __  \|\   ___ \|\  ___ \ |\   __  \    
-\ \  \\\__\ \  \ \  \\\  \ \  \|\  \ \  \_|\ \ \   __/|\ \  \|\  \   
- \ \  \\|__| \  \ \  \\\  \ \   _  _\ \  \ \\ \ \  \_|/_\ \   _  _\  
-  \ \  \    \ \  \ \  \\\  \ \  \\  \\ \  \_\\ \ \  \_|\ \ \  \\  \| 
-   \ \__\    \ \__\ \_______\ \__\\ _\\ \_______\ \_______\ \__\\ _\ 
-    \|__|     \|__|\|_______|\|__|\|__|\|_______|\|_______|\|__|\|__|
+ _________  ________  _______      
+|\___   ___\\   __  \|\  ___ \     
+\|___ \  \_\ \  \|\  \ \   __/|    
+     \ \  \ \ \   ____\ \  \_|/__  
+      \ \  \ \ \  \___|\ \  \_|\ \ 
+       \ \__\ \ \__\    \ \_______\
+        \|__|  \|__|     \|_______|
                                                                      
                                                                                                                                                                      ]]
-rconsoleprint("Script coded by LoopyPawss for the game The Presentation Experience with the game ID of 7772810845, made/tested at 6/14/22 by LoopyPawss, feel free to minimize this cmd prompt so you can start exploiting, enjoy!")
-
---// General Coding \\--
+rconsolename("Credits")
+rconsoleprint("Script made/tested at 6/14/22 and coded fully by LoopyPawss")
+rconsoleprint("Game: The Presentation Experience, GameID: 7772810845")
+wait(30)
+rconsoleclear()
+rconsoleprint("You can now minimize this prompt. Enjoy exploiting!")
 
 -- Enables reset
 game:GetService("StarterGui"):SetCore("ResetButtonCallback", true)
