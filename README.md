@@ -1,6 +1,6 @@
 # README
 So, I created this github for fun (Some scripts are not owned by me, but I did do a little editing for these games and gave credits to owners).
-This is my first ever github repository, so don't call me out if it's shit.
+This is my first ever github repository, so if I fucked up something, please don't hesitate to tell me.
 
 # GAME LIST
 1. Murder
