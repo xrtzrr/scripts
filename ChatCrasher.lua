@@ -2,7 +2,7 @@
 Converted using GUI to Lua | Version: 3.2
 Fully coded/made by LoopyPawss#2569
 Works on almost every executor (I think)
-Only works in Roblox games that ahave the default Roblox chat
+Only works in Roblox games that have the default Roblox chat
 It does not crash instantly you may need to give it some time
 
 NOTICE: THIS DOESN'T WORK UNTIL FUTHER NOTICE! (Updated: 6/20/22)
