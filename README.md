@@ -1,10 +1,12 @@
 # README
-So, I created this for fun (Scripts are not owned by me, but I did do a little editing for these games).
-This is my first ever github repos/script making thing, so don't call me out if it's shit. I already know that.
+So, I created this github for fun (Some scripts are not owned by me, but I did do a little editing for these games and gave credits to owners).
+This is my first ever github repository, so don't call me out if it's shit.
 
 # GAME LIST
-1. Murder [ https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua ]
-2. The Presentation Experience [ https://github.com/LoopyPawss/scripts/blob/main/The%20Presentation%20Experience.lua ]
+1. Murder
+[ https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua ]
+2. The Presentation Experience
+[ https://github.com/LoopyPawss/scripts/blob/main/The%20Presentation%20Experience.lua ]
 3. in progress/not decided which game yet
 4. in progress/not decided which game yet
 5. in progress/not decided which game yet
