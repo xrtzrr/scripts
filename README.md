@@ -10,3 +10,6 @@ This is my first ever github repository, so if I fucked up something, please don
 3. in progress/not decided which game yet
 4. in progress/not decided which game yet
 5. in progress/not decided which game yet
+
+# OTHER
+1. Chat Crasher 
