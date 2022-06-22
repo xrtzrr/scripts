@@ -12,7 +12,9 @@ Special thanks to LoopyPawss for coding the script!
                                                                      
                                                                                                                                                                      ]]
 rconsolename("Credits")
+wait(2)
 rconsoleprint("Script made/tested at 6/14/22 and coded fully by LoopyPawss")
+wait(2)
 rconsoleprint("Game: The Presentation Experience, GameID: 7772810845")
 wait(30)
 rconsoleclear()
