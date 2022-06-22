@@ -12,7 +12,9 @@ Special thanks to LoopyPawss for searching scripts for this game!
                                                                      
                                                                                                                                                                         ]]
 rconsolename("Credits")
+wait(2)
 rconsoleprint("Script coded by owners of the IY, ESP, AND Hitbox Expander1, made/tested at 6/14/22 by LoopyPawss")
+wait(2)
 rconsoleprint("Game: MURDER, GameID: 457225358")
 wait(30)
 rconsoleclear()
