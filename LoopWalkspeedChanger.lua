@@ -6,7 +6,7 @@ local plr = plrserv.LocalPlayer
 local chr = plr.Character
  
 if chr then
-local hum = chr.Humanoid -- Local
+local hum = chr.Humanoid
 hum.Changed:connect(function()
 hum.WalkSpeed = _G.Speed
 end)
@@ -17,7 +17,7 @@ end
 plr.CharacterAdded:connect(function(chr2)
 chr = chr2
 repeat wait() until chr:FindFirstChild("Humanoid")
-local hum2 = chr2.Humanoid -- Local
+local hum2 = chr2.Humanoid
 hum2.Changed:connect(function()
 hum2.WalkSpeed = _G.Speed
 end)
