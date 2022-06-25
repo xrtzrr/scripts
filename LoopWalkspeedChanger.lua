@@ -1,4 +1,4 @@
---This is like your normal walkspeed script, but doesn't reset when you reset. made by LoopyPawss, enjoy.
+--This is like your normal walkspeed script, but doesn't reset when you reset. Made by LoopyPawss, enjoy.
 _G.Speed = 200 --Walkspeed, feel free to change.
 
 -- Locals
