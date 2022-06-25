@@ -1,4 +1,4 @@
---This is like your normal walkspeed script, but doesn't reset when you reset. Enjoy. Made by LoopyPawss
+--This is like your normal walkspeed script, but doesn't reset when you reset. made by LoopyPawss, enjoy.
 _G.Speed = 200 --Walkspeed, feel free to change.
 
 -- Locals
@@ -7,7 +7,7 @@ local plr = plrserv.LocalPlayer
 local chr = plr.Character
  
 if chr then
-local hum = chr.Humanoid
+local hum = chr.Humanoid -- Local
 hum.Changed:connect(function()
 hum.WalkSpeed = _G.Speed
 end)
@@ -18,7 +18,7 @@ end
 plr.CharacterAdded:connect(function(chr2)
 chr = chr2
 repeat wait() until chr:FindFirstChild("Humanoid")
-local hum2 = chr2.Humanoid
+local hum2 = chr2.Humanoid -- Local
 hum2.Changed:connect(function()
 hum2.WalkSpeed = _G.Speed
 end)
