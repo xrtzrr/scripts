@@ -107,7 +107,7 @@ Gradiency.Name = "Gradiency"
 Gradiency.Parent = CrashChatGUI
 
 -- Scripts:
-local function PMEYC_fake_script() -- CrashChatGUI.CoreGUIPlacing 
+local function PMEYC_fake_script() -- CoreGUI Placing 
 	local script = Instance.new('Script', CrashChatGUI)
 
 	script.Parent.Parent=game.CoreGui
@@ -115,7 +115,7 @@ end
 
 coroutine.wrap(PMEYC_fake_script)()
 
-local function ABOBW_fake_script() -- CrashChatButton.CrashScript 
+local function ABOBW_fake_script() -- Crash Script 
 	local script = Instance.new('LocalScript', CrashChatButton)
 
 	local button = script.Parent
@@ -134,7 +134,7 @@ end
 
 coroutine.wrap(ABOBW_fake_script)()
 
-local function BOBRF_fake_script() -- Gradient.Color 
+local function BOBRF_fake_script() -- Gradiency 
 	local script = Instance.new('Script', Gradient)
 
 	script.Parent.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)),
@@ -144,7 +144,7 @@ end
 
 coroutine.wrap(BOBRF_fake_script)()
 
-local function SFSSIF_fake_script() -- Destroy.DestroyScript 
+local function SFSSIF_fake_script() -- Destroy GUI
 	local script = Instance.new('LocalScript', Destroy)
 
 	local button = script.Parent
@@ -155,7 +155,7 @@ end
 
 coroutine.wrap(SFSSIF_fake_script)()
 
-local function GJTHJOF_fake_script() -- Frame.FrameDrag 
+local function GJTHJOF_fake_script() -- Frame Dragger
 	local script = Instance.new('LocalScript', Frame)
 
 		local UIS = game:GetService('UserInputService')
