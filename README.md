@@ -4,18 +4,18 @@ This is my first ever github repository, so if I fucked up something, please don
 
 # GAME LIST
 1. Murder
-[ https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua ]
+[https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua]
 2. The Presentation Experience
-[ https://github.com/LoopyPawss/scripts/blob/main/The%20Presentation%20Experience.lua ]
+[https://github.com/LoopyPawss/scripts/blob/main/The%20Presentation%20Experience.lua]
 3. In progress
 4. In progress
 5. In progress
 
 # OTHER
 1. Chat Crasher
-[ https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua ]
+[https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua]
 2. Loop Walkspeed Changer
-[ https://github.com/LoopyPawss/scripts/blob/main/LoopWalkspeedChanger.lua ]
+[https://github.com/LoopyPawss/scripts/blob/main/LoopWalkspeedChanger.lua]
 3. In progress
 4. In progress
 5. In progress
