@@ -4,12 +4,8 @@ Fully coded/made by LoopyPawss#2569
 Works on almost every executor (I think)
 Only works in Roblox games that have the default Roblox chat
 It does not crash instantly you may need to give it some time
-
-NOTICE: THIS DOESN'T WORK UNTIL FUTHER NOTICE! (Updated: 6/20/22)
                                                                          --]]
 
-
-                                                                         --[[
 
 -- Instances:
 local CrashChatGUI = Instance.new("ScreenGui")
@@ -196,5 +192,3 @@ local function GJTHJOF_fake_script() -- Frame.FrameDrag
 end
 
 coroutine.wrap(GJTHJOF_fake_script)()
-
-                                                                         --]]
