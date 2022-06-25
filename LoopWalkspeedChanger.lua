@@ -1,5 +1,6 @@
 --This is like your normal walkspeed script, but doesn't reset when you reset. Made by LoopyPawss, enjoy.
-_G.Speed = 200 --Walkspeed, feel free to change.
+-- To change speed, copy this script, and remove the -- infront of _G.Speed and edit the number after it
+-- _G.Speed = 200
 
 -- Locals
 local plrserv = game:GetService("Players")
