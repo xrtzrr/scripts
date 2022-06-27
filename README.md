@@ -1,6 +1,8 @@
-# README
-So, I created this github for fun (Some scripts are not owned by me, but I did do a little editing for these games and gave credits to owners).
+# INTRODUCTION
+So, I created this github for my own script storage (Some scripts are not owned by me, but I did do a little editing for these games and gave credits to owners).
 This is my first ever github repository, so if I fucked up something, please don't hesitate to tell me.
+Since this is my own script storage repos, I will still [allow / make it public] for people to see it if they need a script for anything.
+Hope you can find something useful or some code to learn with? For now that's it.
 
 # GAME LIST
 1. Murder [https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua]
