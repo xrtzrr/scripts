@@ -1,5 +1,4 @@
---This script loopclicks all clickdetectors in-game and repeats after the local 'ttime' is finished
---warn("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/00000000")
+--warn("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/r2aYL2xb")
 
 while true do
     repeat
