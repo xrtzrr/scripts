@@ -12,6 +12,6 @@ This is my first ever github repository, so if I fucked up something, please don
 # OTHER
 1. Chat Crasher [https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua]
 2. Loop Walkspeed Changer [https://github.com/LoopyPawss/scripts/blob/main/LoopWalkspeedChanger.lua]
-3. In progress
+3. Loop Click CDs [https://github.com/LoopyPawss/scripts/blob/main/LoopClickCDs.lua]
 4. In progress
 5. In progress
