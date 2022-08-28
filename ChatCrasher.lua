@@ -1,6 +1,6 @@
                                                                          --[[
 Converted using GUI to Lua | Version: 3.2
-Fully coded/made by LoopyPawss#2569
+Fully coded/made by LoopyPawss
 Should work on all executors no matter what level it is
 Only works in Roblox games that have the default Roblox chat
 It does not crash instantly you may need to give it some time
