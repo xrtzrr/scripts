@@ -1,4 +1,4 @@
---warn("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/r2aYL2xb")
+rconsoleprint("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/r2aYL2xb")
 
 while true do
     repeat
