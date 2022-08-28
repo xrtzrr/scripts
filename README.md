@@ -7,7 +7,7 @@ Hope you can find something useful or some code to learn with? For now that's it
 # GAME LIST
 1. Murder [https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua]
 2. The Presentation Experience [https://github.com/LoopyPawss/scripts/blob/main/The%20Presentation%20Experience.lua]
-3. In progress
+3. Jenga [ https://raw.githubusercontent.com/LoopyPawss/scripts/main/Jenga.lua ]
 4. In progress
 5. In progress
 
