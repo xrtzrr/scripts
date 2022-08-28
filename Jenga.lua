@@ -45,3 +45,13 @@ end)
 --// Credits
 Credits:NewLabel("UI Library was made by xHeptc on Github.")
 Credits:NewLabel("This will not get updated, sorry.")
+
+--[[
+
+Extra stuff:
+
+--// roblox.com/games/2537430692/1
+--// https://emojipedia.org/moai/ <-- Copy this in chat. Makes a loud noise for everyone to hear.
+loadstring(game:HttpGet("https://xn--9p9haaaaaa.tk/scripts/vine%20thud.lua"))()
+
+]]
