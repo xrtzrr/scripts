@@ -14,6 +14,6 @@ Hope you can find something useful or some code to learn with? For now that's it
 # OTHER
 1. Chat Crasher [https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua]
 2. Loop Walkspeed Changer [https://github.com/LoopyPawss/scripts/blob/main/LoopWalkspeedChanger.lua]
-3. Loop Click CDs (ClickDetectors) [https://github.com/LoopyPawss/scripts/blob/main/LoopClickCDs.lua]
+3. Loop Click CDs (Clickdetectors) [https://github.com/LoopyPawss/scripts/blob/main/LoopClickCDs.lua]
 4. In progress
 5. In progress
