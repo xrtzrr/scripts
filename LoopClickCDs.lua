@@ -1,3 +1,4 @@
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/LoopyPawss/scripts/main/LoopClickCDs.lua'))()
 rconsoleprint("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/r2aYL2xb")
 
 while true do
