@@ -1,4 +1,4 @@
---warn("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/YisUB8yD")
+rconsoleprint("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/YisUB8yD")
 
 -- Locals
 local plrserv = game:GetService("Players")
