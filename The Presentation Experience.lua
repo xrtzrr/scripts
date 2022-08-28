@@ -1,24 +1,5 @@
-                                                                                                                                                                   --[[
-Please wait 5 seconds until the script is executed fully.
-GAME: [ https://www.roblox.com/games/7772810845/TPE ]
-Special thanks to LoopyPawss for coding the script!
- _________  ________  _______      
-|\___   ___\\   __  \|\  ___ \     
-\|___ \  \_\ \  \|\  \ \   __/|    
-     \ \  \ \ \   ____\ \  \_|/__  
-      \ \  \ \ \  \___|\ \  \_|\ \ 
-       \ \__\ \ \__\    \ \_______\
-        \|__|  \|__|     \|_______|
-                                                                     
-                                                                                                                                                                     ]]
-rconsolename("Credits")
-wait(2)
-rconsoleprint("Script made/tested at 6/14/22 and coded fully by LoopyPawss")
-wait(2)
-rconsoleprint("Game: The Presentation Experience, GameID: 7772810845")
-wait(30)
-rconsoleclear()
-rconsoleprint("You can now minimize this prompt. Enjoy exploiting!")
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/LoopyPawss/scripts/main/The%20Presentation%20Experience.lua'))()
+--https://www.roblox.com/games/7772810845/TPE
 
 -- Enables reset
 game:GetService("StarterGui"):SetCore("ResetButtonCallback", true)
