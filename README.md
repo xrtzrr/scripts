@@ -5,15 +5,27 @@ Since this is my own script storage repos, I will still [allow / make it public]
 Hope you can find something useful or some code to learn with? For now that's it.
 
 # GAME LIST
-1. Murder [https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua]
-2. The Presentation Experience [https://github.com/LoopyPawss/scripts/blob/main/The%20Presentation%20Experience.lua]
-3. Jenga [ https://raw.githubusercontent.com/LoopyPawss/scripts/main/Jenga.lua ]
+1. Murder
+[ https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua ]
+
+2. The Presentation Experience
+[ https://github.com/LoopyPawss/scripts/blob/main/The%20Presentation%20Experience.lua ]
+
+3. Jenga
+[ https://github.com/LoopyPawss/scripts/blob/main/Jenga.lua ]
+
 4. In progress
 5. In progress
 
 # OTHER
-1. Chat Crasher [https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua]
-2. Loop Walkspeed Changer [https://github.com/LoopyPawss/scripts/blob/main/LoopWalkspeedChanger.lua]
-3. Loop Click CDs (Clickdetectors) [https://github.com/LoopyPawss/scripts/blob/main/LoopClickCDs.lua]
+1. Chat Crasher
+[ https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua ]
+
+2. Loop Walkspeed Changer
+[ https://github.com/LoopyPawss/scripts/blob/main/LoopWalkspeedChanger.lua ]
+
+3. Loop Click CDs (Clickdetectors)
+[ https://github.com/LoopyPawss/scripts/blob/main/LoopClickCDs.lua ]
+
 4. In progress
 5. In progress
