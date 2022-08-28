@@ -1,3 +1,5 @@
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/LoopyPawss/scripts/main/LoopWalkspeedChanger.lua'))()
+
 rconsoleprint("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/YisUB8yD")
 
 -- Locals
