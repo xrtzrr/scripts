@@ -41,7 +41,7 @@ MainSection:NewButton("TP to Destroyer Zone", "TP to the Destroyer's Zone", func
 local Owner = game:GetService"Players".LocalPlayer
 local Character = Owner.Character or Owner.CharacterAdded:Wait()
 local Root = Character:FindFirstChild"HumanoidRootPart" or Character:FindFirstChild"Torso" or Character:FindFirstChild"UpperTorso" or Character:FindFirstChild"Head"
-Root.CFrame = CFrame.new(213, 100, 43)
+Root.CFrame = CFrame.new(267, 100, 27)
 end)
 
 --// Credits
