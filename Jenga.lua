@@ -47,4 +47,4 @@ end)
 --// Credits
 Credits:NewLabel("UI Library was made by xHeptc on Github.")
 Credits:NewLabel("Moai script made by skyr3x on V3rmillion.")
-Credits:NewLabel("This will never get updated, i'm sorry.")
+Credits:NewLabel("This will get frequent updates, just not alot of times..")
