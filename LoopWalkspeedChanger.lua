@@ -1,6 +1,4 @@
---loadstring(game:HttpGet('https://raw.githubusercontent.com/LoopyPawss/scripts/main/LoopWalkspeedChanger.lua'))()
-
-rconsoleprint("Don't come to the github repos to edit the script, use this pastebin link instead: https://pastebin.com/raw/YisUB8yD")
+rconsoleprint("To edit speed, check out this pastebin first which has speed editing along with the loadstring: https://pastebin.com/raw/V6x2NzA2")
 
 -- Locals
 local plrserv = game:GetService("Players")
