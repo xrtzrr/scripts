@@ -1,4 +1,5 @@
-rconsoleprint("To edit speed, check out this pastebin first which has speed editing along with the loadstring: https://pastebin.com/raw/V6x2NzA2")
+rconsoleprint("To edit speed, check out this pastebin first which has speed editing along with the loadstring:")
+rconsoleprint("https://pastebin.com/raw/V6x2NzA2")
 
 -- Locals
 local plrserv = game:GetService("Players")
