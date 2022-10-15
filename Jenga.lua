@@ -1,9 +1,9 @@
---loadstring(game:HttpGet('https://raw.githubusercontent.com/LoopyPawss/scripts/main/Jenga.lua'))()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/Jenga.lua'))()
 --https://www.roblox.com/games/2537430692/Jenga
 
 --// Locals
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Jenga Ruiner // Made by LoopyPawss on Github", "Ocean")
+local Window = Library.CreateLib("Jenga Ruiner // Made by d7ltacat on Github", "Ocean")
 local Main = Window:NewTab("Main")
 local MainSection = Main:NewSection("Main")
 local Admins = Window:NewTab("Admins")
