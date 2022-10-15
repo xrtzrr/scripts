@@ -1,5 +1,5 @@
 --NOT MADE BY ME!!!
---loadstring(game:HttpGet('https://raw.githubusercontent.com/LoopyPawss/scripts/main/Car%20Crash%20System.lua'))()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/Car%20Crash%20System.lua'))()
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
