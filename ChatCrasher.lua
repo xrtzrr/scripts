@@ -5,7 +5,7 @@ Should work on all executors no matter what level it is
 Only works in Roblox games that have the default Roblox chat
 It does not crash instantly you may need to give it some time
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/LoopyPawss/scripts/main/ChatCrasher.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/ChatCrasher.lua'))()
                                                                          --]]
 
 
