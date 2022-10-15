@@ -14,6 +14,9 @@ Hope you can find something useful or some code to learn with? For now that's it
 3. Jenga
 [https://github.com/LoopyPawss/scripts/blob/main/Jenga.lua]
 
+4. Car Crash System
+[https://github.com/d7ltacat/scripts/blob/main/Car%20Crash%20System.lua]
+
 # OTHER
 1. Chat Crasher
 [https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua]
