@@ -1,10 +1,10 @@
 --loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/MURDER.lua'))()
---https://www.roblox.com/games/4572253581/MURDER
+-- https://www.roblox.com/games/4572253581/MURDER
 
 -- ESP
-loadstring(game:HttpGet("https://pastebin.com/raw/gpL2gJBg", true))()
+-- loadstring(game:HttpGet("https://pastebin.com/raw/gpL2gJBg", true))()
 
-wait(5)
+-- wait(5)
 
 -- Infinite Yield
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
@@ -12,4 +12,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 wait(5)
 
 -- Hitbox Expander
-loadstring(game:HttpGet("https://pastebin.com/raw/LgiSXqqF"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/6nJ2Vd4A"))()
