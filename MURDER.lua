@@ -2,7 +2,7 @@
 -- https://www.roblox.com/games/4572253581/MURDER
 
 -- ESP
--- loadstring(game:HttpGet("https://pastebin.com/raw/gpL2gJBg", true))()
+-- loadstring(game:HttpGet("https://pastebin.com/raw/00000000", true))()
 
 -- wait(5)
 
