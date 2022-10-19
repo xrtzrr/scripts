@@ -5,25 +5,25 @@
 
 local Players = game:GetService"Players"
 local Names = {
-    "LEBWEE" --Music Developer
-    "FormalNoob" --Admin
-    "Iei5h" --Admin
-    "Acorlan" --Admin
-    "NFKitsune" --Admin
-    "D1s_c" --Admin
-    "TazNova" --Admin
-    "TheLunaticSome" --Admin
-    "TimidNomf" --Admin
-    "Spookterior" --Admin
-    "SniffE_Boi" --Admin
-    "OriginallyKosar" --Admin
-    "Nanachiiky" --Admin
-    "TrixisDev" --Admin
-    "Lovely_Sammer" --Admin
-    "Weko" --HeadAdmin
-    "Pixelmen360" --HeadAdmin
-    "JeanRBLX" --Developer
-    "PortABoi" --Developer
+    "LEBWEE", --Music Developer
+    "FormalNoob", --Admin
+    "Iei5h", --Admin
+    "Acorlan", --Admin
+    "NFKitsune", --Admin
+    "D1s_c", --Admin
+    "TazNova", --Admin
+    "TheLunaticSome", --Admin
+    "TimidNomf", --Admin
+    "Spookterior", --Admin
+    "SniffE_Boi", --Admin
+    "OriginallyKosar", --Admin
+    "Nanachiiky", --Admin
+    "TrixisDev", --Admin
+    "Lovely_Sammer", --Admin
+    "Weko", --HeadAdmin
+    "Pixelmen360", --HeadAdmin
+    "JeanRBLX", --Developer
+    "PortABoi", --Developer
     "Xerroz" --Developer
 }
 local function Check(Player)
