@@ -1,4 +1,5 @@
 --https://www.roblox.com/games/5670218884/IA
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/IAKick.lua'))()
 --Kicks you out of the game automatically if an item asylum admin/headadmin/developer joins in-game
 --Can also kick you if a roblox QA tester or admin joins
 
