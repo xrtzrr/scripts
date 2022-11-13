@@ -17,6 +17,12 @@ Hope you can find something useful or some code to learn with? For now that's it
 4. Car Crash System
 [https://github.com/d7ltacat/scripts/blob/main/Car%20Crash%20System.lua]
 
+5. Hmm...
+[https://github.com/d7ltacat/scripts/blob/main/Hmm....lua]
+
+6. Item Asylum
+[https://github.com/d7ltacat/scripts/blob/main/IA_AdminKick.lua]
+
 # OTHER
 1. Chat Crasher
 [https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua]
