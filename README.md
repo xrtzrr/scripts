@@ -6,29 +6,29 @@ Hope you can find something useful or some code to learn with? For now that's it
 
 # GAME LIST
 1. Murder
-[https://github.com/LoopyPawss/scripts/blob/main/MURDER.lua]
+[https://github.com/d7ltacat/scripts/blob/main/MURDER.lua]
 
 2. The Presentation Experience
-[https://github.com/LoopyPawss/scripts/blob/main/The%20Presentation%20Experience.lua]
+[https://github.com/d7ltacat/scripts/blob/main/The%20Presentation%20Experience.lua]
 
 3. Jenga
-[https://github.com/LoopyPawss/scripts/blob/main/Jenga.lua]
+[https://github.com/d7ltacat/scripts/blob/main/Jenga.lua]
 
 4. Car Crash System
 [https://github.com/d7ltacat/scripts/blob/main/Car%20Crash%20System.lua]
 
-5. Hmm...
-[https://github.com/d7ltacat/scripts/blob/main/Hmm....lua]
-
-6. Item Asylum
+5. Item Asylum
 [https://github.com/d7ltacat/scripts/blob/main/IA_AdminKick.lua]
+
+6. Hmm...
+[https://github.com/d7ltacat/scripts/blob/main/Hmm....lua]
 
 # OTHER
 1. Chat Crasher
-[https://github.com/LoopyPawss/scripts/blob/main/ChatCrasher.lua]
+[https://github.com/d7ltacat/scripts/blob/main/ChatCrasher.lua]
 
 2. Loop Walkspeed Changer
-[https://github.com/LoopyPawss/scripts/blob/main/LoopWalkspeedChanger.lua]
+[https://github.com/d7ltacat/scripts/blob/main/LoopWalkspeedChanger.lua]
 
 3. Loop Click CDs (Clickdetectors)
-[https://github.com/LoopyPawss/scripts/blob/main/LoopClickCDs.lua]
+[https://github.com/d7ltacat/scripts/blob/main/LoopClickCDs.lua]
