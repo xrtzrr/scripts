@@ -7,7 +7,8 @@ https://www.roblox.com/games/5670218884/IA
 Kicks you out of the game automatically if an item asylum admin/headadmin/developer joins in-game, can also kick you if a roblox QA tester or admin joins.
 The list will be updated if necessary, i'm not going to add contributors or testers, they won't do any good.
 Also, if the developers are reading this, fuck you for banning me, I did nothing wrong. So consider this payback.
-NOTE: I've noticed they do bans in a console now. Be aware of that and use alts to avoid this. [ https://noah.ovh/files/2010.txt ]
+
+**NOTE**: I've noticed they do bans in a console now. Be aware of that and use alts to avoid this. [ https://noah.ovh/files/2010.txt ]
 --]]
 
 if not game:IsLoaded() then
@@ -16,9 +17,9 @@ end
 
 Players = game:GetService"Players"
 Names = {
---  Music Developers:
+--  Music Developers [1]:
     "LEBWEE",
---  Admins List:
+--  Admins List [14]:
     "FormalNoob",
     "Iei5h",
     "Acorlan",
@@ -33,10 +34,10 @@ Names = {
     "Nanachiiky",
     "TrixisDev",
     "Lovely_Sammer",
---  HeadAdmin List:
+--  HeadAdmin List [2]:
     "Weko",
     "Pixelmen360",
---  Developer List:
+--  Developer List [3]:
     "JeanRBLX",
     "PortABoi",
     "Xerroz"
