@@ -3,6 +3,7 @@ So, I created this github for my own script storage (Some scripts are not owned 
 This is my first ever github repository, so if I fucked up something, please don't hesitate to tell me.
 Since this is my own script storage repos, I will still [allow / make it public] for people to see it if they need a script for anything.
 Hope you can find something useful or some code to learn with? For now that's it.
+
 If you want contact with me, here's my Discord. http://discord.com/users/1021782972770295850
 
 # GAME LIST
