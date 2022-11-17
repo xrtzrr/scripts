@@ -1,4 +1,4 @@
---loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/The%20Presentation%20Experience.lua'))()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/pawstep/scripts/main/The%20Presentation%20Experience.lua'))()
 --https://www.roblox.com/games/7772810845/TPE
 
 -- Enables reset
