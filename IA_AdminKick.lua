@@ -2,7 +2,7 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/1TKY86pG'))()
 wait(5)
 --[[
-loadstring(game:HttpGet('https://github.com/d7ltacat/scripts/raw/main/IA_AdminKick.lua'))()
+loadstring(game:HttpGet('https://github.com/pawstep/scripts/raw/main/IA_AdminKick.lua'))()
 https://www.roblox.com/games/5670218884/IA
 Kicks you out of the game automatically if an item asylum admin/headadmin/developer joins in-game, can also kick you if a roblox QA tester or admin joins.
 The list will be updated if necessary, i'm not going to add contributors or testers, they won't do any good.
