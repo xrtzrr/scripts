@@ -1,4 +1,4 @@
---loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/MURDER.lua'))()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/pawstep/scripts/main/MURDER.lua'))()
 -- https://www.roblox.com/games/4572253581/MURDER
 
 -- ESP
