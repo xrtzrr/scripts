@@ -1,4 +1,4 @@
---loadstring(game:HttpGet('https://raw.githubusercontent.com/d7ltacat/scripts/main/Jenga.lua'))()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/pawstep/scripts/main/Jenga.lua'))()
 --https://www.roblox.com/games/2537430692/Jenga
 
 --// Locals
