@@ -4,7 +4,7 @@ This is my first ever github repository, so if I fucked up something, please don
 Since this is my own script storage repos, I will still [allow / make it public] for people to see it if they need a script for anything.
 Hope you can find something useful or some code to learn with? For now that's it.
 
-If you want contact with me, here's my Discord. http://discord.com/users/1021782972770295850
+If you want contact with me, here's my Discord. http://discord.com/users/1001001099618168904
 
 # GAME LIST
 1. Murder
@@ -24,6 +24,9 @@ If you want contact with me, here's my Discord. http://discord.com/users/1021782
 
 6. Hmm...
 [https://github.com/pawstep/scripts/blob/main/Hmm....lua]
+
+7. Work at a Pizza Place
+[https://github.com/pawstep/scripts/blob/main/WorkAtAPizzaPlaceFucker.lua]
 
 # OTHER
 1. Chat Crasher
