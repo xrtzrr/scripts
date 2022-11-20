@@ -39,13 +39,11 @@ MainSection:NewButton("Moai", "Send an moai emoji to make a loud boom noise.", f
 loadstring(game:HttpGet("https://xn--9p9haaaaaa.tk/scripts/vine%20thud.lua"))()
 end)
 MainSection:NewButton("TP to Destroyer Zone", "TP to the Destroyer's Zone", function()
-local Owner = game:GetService"Players".LocalPlayer
-local Character = Owner.Character or Owner.CharacterAdded:Wait()
-local Root = Character:FindFirstChild"HumanoidRootPart" or Character:FindFirstChild"Torso" or Character:FindFirstChild"UpperTorso" or Character:FindFirstChild"Head"
-Root.CFrame = CFrame.new(267, 100, 27)
+local chr=game.Players.LocalPlayer.Character
+chr.HumanoidRootPart.CFrame = CFrame.new
 end)
 
 --// Credits
 Credits:NewLabel("UI Library was made by xHeptc on Github.")
 Credits:NewLabel("Moai script made by skyr3x on V3rmillion.")
-Credits:NewLabel("This will get frequent updates, just not alot of times..")
+Credits:NewLabel("***This will NOT get updated.***")
