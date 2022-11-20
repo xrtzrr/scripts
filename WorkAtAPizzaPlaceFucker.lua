@@ -1,5 +1,10 @@
+cg = game:GetService("StarterGui")
+cg:SetCore("SendNotification", {
+    Title = "Successfully loaded script.";
+    Text = "Made by Arsenicen#5961 on Discord. Discord server: discord.gg/nsdBV6EGHz";
+    Duration = 25;
+})
 --< https://www.roblox.com/games/192800/WaaPP
---< Credits to Arsenicen#5961 / discord server: discord.gg/nsdBV6EGHz
 --< Works only on players that arent setting / use big scales for it to work better, works best on synapse
 
 --< Kick all is the first one, Cook Room fucker is the second one
