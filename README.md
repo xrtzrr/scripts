@@ -1,8 +1,9 @@
-# INTRODUCTION
+# EXPLANATION TO ALL MY SCRIPTS
 So, I created this github for my own script storage (Some scripts are not owned by me, but I did do a little editing for these games and gave credits to owners).
 This is my first ever github repository, so if I fucked up something, please don't hesitate to tell me.
 Since this is my own script storage repos, I will still [allow / make it public] for people to see it if they need a script for anything.
-Hope you can find something useful or some code to learn with? For now that's it.
+Hope you can find something useful or some code to learn with?
+For now that's sort of.. it, i guess..
 
 If you want contact with me, here's my Discord. http://discord.com/users/1001001099618168904
 
@@ -30,7 +31,7 @@ If you want contact with me, here's my Discord. http://discord.com/users/1001001
 
 # OTHER
 1. Anti-chat and Screenshot Logger
-[https://github.com/pawstep/scripts/blob/main/antichatandscreenshotlogger.lua]
+[https://github.com/Pawstep/scripts/blob/main/AntiChatandScreenshotLogger.lua]
 
 2. Loop Walkspeed Changer
 [https://github.com/pawstep/scripts/blob/main/LoopWalkspeedChanger.lua]
