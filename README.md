@@ -29,11 +29,14 @@ If you want contact with me, here's my Discord. http://discord.com/users/1001001
 [https://github.com/pawstep/scripts/blob/main/WorkAtAPizzaPlaceFucker.lua]
 
 # OTHER
-1. Chat Crasher
-[https://github.com/pawstep/scripts/blob/main/ChatCrasher.lua]
+1. Anti-chat and Screenshot Logger
+[https://github.com/pawstep/scripts/blob/main/antichatandscreenshotlogger.lua]
 
 2. Loop Walkspeed Changer
 [https://github.com/pawstep/scripts/blob/main/LoopWalkspeedChanger.lua]
 
 3. Loop Click CDs (Clickdetectors)
 [https://github.com/pawstep/scripts/blob/main/LoopClickCDs.lua]
+
+4. Chat Crasher
+[https://github.com/pawstep/scripts/blob/main/ChatCrasher.lua]
