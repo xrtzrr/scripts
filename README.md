@@ -31,7 +31,7 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 
 # RESOURCES/HELPFUL STUFF
 1. Anti-chat and Screenshot Logger
-[https://github.com/Pawstep/scripts/blob/main/AntiChatandScreenshotLogger.lua]
+[https://github.com/pawstep/scripts/blob/main/AntiChatandScreenshotLogger.lua]
 
 2. Loop Walkspeed Changer
 [https://github.com/pawstep/scripts/blob/main/LoopWalkspeedChanger.lua]
