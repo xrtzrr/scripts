@@ -1,5 +1,5 @@
 --< ANTI CHAT AND SCREENSHOT LOGGER FOR ROBLOX ADMINS [WORKS ON ANY GAME UNLESS THE CHAT DOES NOT EXIST]
---< Have fun!
+--< Have fun! loadstring(game:HttpGet(https://raw.githubusercontent.com/Pawstep/scripts/main/antichatandscreenshotlogger.lua'))()
 
 if not game:IsLoaded() then
     game.Loaded:wait()
