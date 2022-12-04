@@ -18,7 +18,7 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 [https://github.com/pawstep/scripts/blob/main/Jenga.lua]
 
 4. Car Crash System
-[https://github.com/pawstep/scripts/blob/main/Car%20Crash%20System.lua]
+[https://github.com/Pawstep/scripts/blob/main/CarCrashSystem.lua]
 
 5. Item Asylum
 [https://github.com/pawstep/scripts/blob/main/IA_AdminKick.lua]
