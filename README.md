@@ -12,13 +12,13 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 [https://github.com/pawstep/scripts/blob/main/MURDER.lua]
 
 2. The Presentation Experience
-[https://github.com/Pawstep/scripts/blob/main/ThePresentationExperience.lua]
+[https://github.com/pawstep/scripts/blob/main/ThePresentationExperience.lua]
 
 3. Jenga
 [https://github.com/pawstep/scripts/blob/main/Jenga.lua]
 
 4. Car Crash System
-[https://github.com/Pawstep/scripts/blob/main/CarCrashSystem.lua]
+[https://github.com/pawstep/scripts/blob/main/CarCrashSystem.lua]
 
 5. Item Asylum
 [https://github.com/pawstep/scripts/blob/main/IA_AdminKick.lua]
@@ -46,4 +46,4 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 [https://github.com/pawstep/scripts/blob/main/ChatCrasher.lua]
 
 5. Loop Fire All Promixity Prompts
-[https://github.com/Pawstep/scripts/blob/main/LoopFireAllPromixityPrompts.lua]
+[https://github.com/pawstep/scripts/blob/main/LoopFireAllPromixityPrompts.lua]
