@@ -29,6 +29,9 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 7. Work at a Pizza Place
 [https://github.com/pawstep/scripts/blob/main/WorkAtAPizzaPlaceFucker.lua]
 
+8. Dig to China
+[https://github.com/Pawstep/scripts/blob/main/DigToChina.lua]
+
 # RESOURCES/HELPFUL STUFF
 1. Anti-chat and Screenshot Logger
 [https://github.com/pawstep/scripts/blob/main/AntiChatandScreenshotLogger.lua]
