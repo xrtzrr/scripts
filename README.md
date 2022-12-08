@@ -10,10 +10,10 @@ http://discord.com/users/1001001099618168904 / pi#6348
 
 
 # GAME LIST
-1. Murder
+1. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
 [https://github.com/pawstep/scripts/blob/main/MURDER.lua]
 
-2. The Presentation Experience
+2. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
 [https://github.com/pawstep/scripts/blob/main/ThePresentationExperience.lua]
 
 3. Jenga
@@ -32,7 +32,7 @@ http://discord.com/users/1001001099618168904 / pi#6348
 [https://github.com/pawstep/scripts/blob/main/WorkAtAPizzaPlaceFucker.lua]
 
 8. Dig to China
-[https://github.com/Pawstep/scripts/blob/main/DigToChina.lua]
+[https://github.com/pawstep/scripts/blob/main/DigToChina.lua]
 
 # RESOURCES/HELPFUL STUFF
 1. Anti-chat and Screenshot Logger
