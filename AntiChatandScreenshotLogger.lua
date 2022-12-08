@@ -88,7 +88,7 @@ local MakeGuiThread = coroutine.wrap(function()
     Background.BorderSizePixel = 0
     Background.Position = UDim2.new(0.5, 0, 0.5, 0)
     Background.Size = UDim2.new(0.300000012, 0, 0.5, 0)
-    
+     
     Top.Name = "Top"
     Top.Parent = Background
     Top.AnchorPoint = Vector2.new(0.5, 0.5)
