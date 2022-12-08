@@ -5,7 +5,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Car Crash System", "BloodTheme")
 local Tab = Window:NewTab("Tier 1")
-
 local Section = Tab:NewSection("Tier 1 Cars")
 Section:NewButton("Sedan", "", function()
     local args = {
