@@ -2,6 +2,7 @@ loadstring(game:HttpGet('https://pastebin.com/raw/urvzBY4a'))()
 --loadstring(game:HttpGet('https://raw.githubusercontent.com/pawstep/scripts/main/Jenga.lua'))()
 --https://www.roblox.com/games/2537430692/Jenga
 
+
 --// Locals
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Jenga Ruiner // Made by Pawstep on Github", "Ocean")
