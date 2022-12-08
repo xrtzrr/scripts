@@ -9,7 +9,6 @@ It does not crash instantly you may need to give it some time
 loadstring(game:HttpGet('https://raw.githubusercontent.com/pawstep/scripts/main/ChatCrasher.lua'))()
                                                                          --]]
 
-
 -- Instances:
 local CrashChatGUI = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
