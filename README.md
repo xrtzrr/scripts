@@ -2,7 +2,7 @@
 So, I created this github for my own script storage (Some scripts are not owned by me, but I did do a little editing for these games and gave credits to owners).
 This is my first ever github repository, so if I fucked up something, please don't hesitate to tell me.
 Since this is my own script storage repos, I will still [allow / make it public] for people to see it if they need a script for anything.
-Hope you can find something useful or some code to learn with for future reference?
+Hope you can find something useful or some code to learn with for future reference??
 For now that's sort of.. it, i guess.. I will be updating this alot though when I have freetime to do so.
 
 If you want to contact me for any concerns, here's my Discord.
