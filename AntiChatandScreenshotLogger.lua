@@ -6,14 +6,11 @@ if not game:IsLoaded() then
 end
 
 local ACL_LoadTime = tick()
-
 local CoreGui = game:GetService("CoreGui")
 local StarterGui = game:GetService("StarterGui")
 local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
-
 local Player = Players.LocalPlayer
-
 local PlayerGui = Player:FindFirstChildWhichIsA("PlayerGui") do
     if not PlayerGui then
         repeat task.wait() until Player:FindFirstChildWhichIsA("PlayerGui")
