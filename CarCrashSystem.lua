@@ -3,7 +3,6 @@
 --https://www.roblox.com/games/9601565001/CCS
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-
 local Window = Library.CreateLib("Car Crash System", "BloodTheme")
 local Tab = Window:NewTab("Tier 1")
 
