@@ -5,7 +5,8 @@ Since this is my own script storage repos, I will still [allow / make it public]
 Hope you can find something useful or some code to learn with?
 For now that's sort of.. it, i guess.. I will be updating this alot though when I have freetime to do so.
 
-If you want to contact me for any concerns, here's my Discord. http://discord.com/users/1001001099618168904
+If you want to contact me for any concerns, here's my Discord.
+http://discord.com/users/1001001099618168904 / pi#6348
 
 # GAME LIST
 1. Murder
@@ -46,4 +47,4 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 [https://github.com/pawstep/scripts/blob/main/ChatCrasher.lua]
 
 5. Loop Fire All Promixity Prompts
-[https://github.com/pawstep/scripts/blob/main/LoopFireAllPromixityPrompts.lua]
+[https://github.com/Pawstep/scripts/blob/main/LoopFireAllProximityPrompts.lua]
