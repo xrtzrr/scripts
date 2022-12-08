@@ -247,7 +247,7 @@ local ExitCooldown = function()
     Loading:Destroy()
     Exit.Visible = true
 end
-
+ 
 local PlayerScripts = Player:WaitForChild("PlayerScripts")
 local ChatMain = PlayerScripts:FindFirstChild("ChatMain", true) or false
 
