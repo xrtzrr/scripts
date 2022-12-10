@@ -4,7 +4,7 @@ loadstring(game:HttpGet('https://pastebin.com/raw/urvzBY4a'))()
 --Wait until timer hits 00:00 and you will get to China.
 
 local p=game.Players.LocalPlayer
-local h=plr.Character.HumanoidRootPart
+local h=p.Character.HumanoidRootPart
 local c=workspace.ChinaDetector
 local f=firetouchinterest
 while true do
