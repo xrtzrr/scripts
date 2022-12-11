@@ -47,3 +47,6 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 
 5. Loop Fire All Promixity Prompts
 [https://github.com/Pawstep/scripts/blob/main/LoopFireAllProximityPrompts.lua]
+
+6. Save Place IDs
+[https://github.com/Pawstep/scripts/blob/main/SavePlaceIDs.lua]
