@@ -8,29 +8,30 @@ For now that's sort of.. it, i guess.. I will be updating this alot though when 
 If you want to contact me for any concerns, here's my Discord. http://discord.com/users/1001001099618168904 / If you're having problems search up 1001001099618168904 on https://discord.id/.
 
 # GAME LIST
-1. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
-[https://github.com/pawstep/scripts/blob/main/MURDER.lua]
 
-2. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
-[https://github.com/pawstep/scripts/blob/main/ThePresentationExperience.lua]
-
-3. Jenga
+1. Jenga
 [https://github.com/pawstep/scripts/blob/main/Jenga.lua]
 
-4. Car Crash System
+2. Car Crash System
 [https://github.com/pawstep/scripts/blob/main/CarCrashSystem.lua]
 
-5. Item Asylum
+3. Item Asylum
 [https://github.com/pawstep/scripts/blob/main/IA_AdminKick.lua]
 
-6. Hmm...
+4. Hmm...
 [https://github.com/pawstep/scripts/blob/main/Hmm....lua]
 
-7. Work at a Pizza Place
+5. Work at a Pizza Place
 [https://github.com/pawstep/scripts/blob/main/WorkAtAPizzaPlaceFucker.lua]
 
-8. Dig to China
+6. Dig to China
 [https://github.com/pawstep/scripts/blob/main/DigToChina.lua]
+
+7. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
+[.....................................................]
+
+8. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
+[.....................................................]
 
 # RESOURCES/HELPFUL STUFF
 1. Anti-chat and Screenshot Logger
@@ -46,7 +47,7 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 [https://github.com/pawstep/scripts/blob/main/ChatCrasher.lua]
 
 5. Loop Fire All Promixity Prompts
-[https://github.com/Pawstep/scripts/blob/main/LoopFireAllProximityPrompts.lua]
+[https://github.com/pawstep/scripts/blob/main/LoopFireAllProximityPrompts.lua]
 
 6. Save Place IDs
-[https://github.com/Pawstep/scripts/blob/main/SavePlaceIDs.lua]
+[https://github.com/pawstep/scripts/blob/main/SavePlaceIDs.lua]
