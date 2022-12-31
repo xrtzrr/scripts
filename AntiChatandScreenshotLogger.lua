@@ -291,5 +291,12 @@ ACLWarning:Destroy()
 if OldSetting then
     StarterGui:SetCoreGuiEnabled(CoreGuiSettings[1], CoreGuiSettings[2])
 end
-Notify("Loaded Successfully", "Anti Chat and Screenshot Logger Loaded!", 15)
+
+wait(5)
+local cg = game:GetService("StarterGui")
+cg:SetCore("SendNotification", {
+    Title = "Loaded anti-chatlogger!";
+    Text = "Made by Pawstep on github.";
+    Duration = 25;
+})
 print(string.format("Anti Chat-Logger has loaded in %s seconds.", tostring(tick() - ACL_LoadTime):sub(1, 4)))
