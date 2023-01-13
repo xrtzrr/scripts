@@ -46,7 +46,7 @@ Credits.BorderColor3 = Color3.fromRGB(94, 94, 94)
 Credits.Position = UDim2.new(0, 0, 0.790710032, 0)
 Credits.Size = UDim2.new(0, 162, 0, 30)
 Credits.Font = Enum.Font.Arial
-Credits.Text = "pawstep#0983"
+Credits.Text = "Pawvices#0001"
 Credits.TextColor3 = Color3.fromRGB(0, 0, 0)
 Credits.TextScaled = true
 Credits.TextSize = 14.000
@@ -99,7 +99,7 @@ Countdown.BorderColor3 = Color3.fromRGB(94, 94, 94)
 Countdown.Position = UDim2.new(0.25, 0, 0.0399999991, 0)
 Countdown.Size = UDim2.new(0, 150, 0, 43)
 Countdown.Font = Enum.Font.Arial
-Countdown.Text = "--COUNTDOWN--"
+Countdown.Text = "-- COUNTDOWN --"
 Countdown.TextColor3 = Color3.fromRGB(255, 255, 255)
 Countdown.TextScaled = true
 Countdown.TextSize = 14.000
@@ -109,15 +109,15 @@ Gradiency.Name = "Gradiency"
 Gradiency.Parent = CrashChatGUI
 
 -- Scripts:
-local function PMEYC_fake_script() -- CoreGUI Placing 
+local function script1()
 	local script = Instance.new('Script', CrashChatGUI)
 
 	script.Parent.Parent=game.CoreGui
 end
 
-coroutine.wrap(PMEYC_fake_script)()
+coroutine.wrap(script1)()
 
-local function ABOBW_fake_script() -- Crash Script 
+local function script2()
 	local script = Instance.new('LocalScript', CrashChatButton)
 
 	local button = script.Parent
@@ -127,16 +127,16 @@ local function ABOBW_fake_script() -- Crash Script
 			script.Parent.Parent.Parent.Countdown.Text = (""..count.."")
 				wait (2.5)
 				count -= 1
-				local args = {				[1] = " ",				[2] = "all"			}
+				local args = {[1] = " ", [2] = "all"}
 				game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 			until count == 0
 			script.Parent.Parent.Parent.Countdown.Text = ("Chat should be deleted now.")
 		end)
 end
 
-coroutine.wrap(ABOBW_fake_script)()
+coroutine.wrap(script2)()
 
-local function BOBRF_fake_script() -- Gradiency 
+local function script3() -- Gradiency 
 	local script = Instance.new('Script', Gradient)
 
 	script.Parent.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(0, 0, 0)),
@@ -144,9 +144,9 @@ local function BOBRF_fake_script() -- Gradiency
 		ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
 end
 
-coroutine.wrap(BOBRF_fake_script)()
+coroutine.wrap(script3)()
 
-local function SFSSIF_fake_script() -- Destroy GUI
+local function script4() -- Destroy GUI
 	local script = Instance.new('LocalScript', Destroy)
 
 	local button = script.Parent
@@ -155,9 +155,9 @@ local function SFSSIF_fake_script() -- Destroy GUI
 		end)
 end
 
-coroutine.wrap(SFSSIF_fake_script)()
+coroutine.wrap(script4)()
 
-local function GJTHJOF_fake_script() -- Frame Dragger
+local function script5() -- Frame Dragger
 	local script = Instance.new('LocalScript', Frame)
 
 		local UIS = game:GetService('UserInputService')
@@ -193,11 +193,10 @@ local function GJTHJOF_fake_script() -- Frame Dragger
 		end)
 end
 
-coroutine.wrap(GJTHJOF_fake_script)()
+coroutine.wrap(script5)()
 
-
+--Anti-Report script in-case something goes wrong.
 wait(2)
--- Anti Report Ban just incase
 local CheckCaller = clonefunction(checkcaller)
 local HookFunction = clonefunction(hookfunction)
 local LocalPlayer = game:GetService("Players").LocalPlayer or game:GetService("Players").PlayerAdded:Wait()
