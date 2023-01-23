@@ -5,27 +5,27 @@ Since this is my own script storage repos, I will still [allow / make it public]
 Hope you can find something useful or some code to learn with for future reference??
 For now that's sort of.. it, i guess.. I will be updating this alot though when I have freetime to do so.
 
-If you want to contact me for any concerns, here's my Discord. http://discord.com/users/1001001099618168904 / If you're having problems search up 1001001099618168904 on https://discord.id/.
+If you want to contact me for any concerns, here's my Discord. http://discord.com/users/1062475136307040397 / If you're having problems search up 1062475136307040397 on https://discord.id/.
 
 # GAME LIST
 
 1. Jenga
-[https://github.com/pawstep/scripts/blob/main/Jenga.lua]
+[https://github.com/xrtzrr/scripts/blob/main/Jenga.lua]
 
 2. Car Crash System
-[https://github.com/pawstep/scripts/blob/main/CarCrashSystem.lua]
+[https://github.com/xrtzrr/scripts/blob/main/CarCrashSystem.lua]
 
 3. Item Asylum
-[https://github.com/pawstep/scripts/blob/main/IA_AdminKick.lua]
+[https://github.com/xrtzrr/scripts/blob/main/IA_AdminKick.lua]
 
 4. Hmm...
-[https://github.com/pawstep/scripts/blob/main/Hmm....lua]
+[https://github.com/xrtzrr/scripts/blob/main/Hmm....lua]
 
 5. Work at a Pizza Place
-[https://github.com/pawstep/scripts/blob/main/WorkAtAPizzaPlaceFucker.lua]
+[https://github.com/xrtzrr/scripts/blob/main/WorkAtAPizzaPlaceFucker.lua]
 
 6. Dig to China
-[https://github.com/pawstep/scripts/blob/main/DigToChina.lua]
+[https://github.com/xrtzrr/scripts/blob/main/DigToChina.lua]
 
 7. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
 [.....................................................]
@@ -35,19 +35,19 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 
 # RESOURCES/HELPFUL STUFF
 1. Anti-chat and Screenshot Logger
-[https://github.com/pawstep/scripts/blob/main/AntiChatandScreenshotLogger.lua]
+[https://github.com/xrtzrr/scripts/blob/main/AntiChatandScreenshotLogger.lua]
 
 2. Loop Walkspeed Changer
-[https://github.com/pawstep/scripts/blob/main/LoopWalkspeedChanger.lua]
+[https://github.com/xrtzrr/scripts/blob/main/LoopWalkspeedChanger.lua]
 
 3. Loop Click CDs (Clickdetectors)
-[https://github.com/pawstep/scripts/blob/main/LoopClickCDs.lua]
+[https://github.com/xrtzrr/scripts/blob/main/LoopClickCDs.lua]
 
 4. Chat Crasher
-[https://github.com/pawstep/scripts/blob/main/ChatCrasher.lua]
+[https://github.com/xrtzrr/scripts/blob/main/ChatCrasher.lua]
 
 5. Loop Fire All Promixity Prompts
-[https://github.com/pawstep/scripts/blob/main/LoopFireAllProximityPrompts.lua]
+[https://github.com/xrtzrr/scripts/blob/main/LoopFireAllProximityPrompts.lua]
 
 6. Save Place IDs
-[https://github.com/pawstep/scripts/blob/main/SavePlaceIDs.lua]
+[https://github.com/xrtzrr/scripts/blob/main/SavePlaceIDs.lua]
