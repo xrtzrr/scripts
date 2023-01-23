@@ -1,5 +1,5 @@
 --Credits
-loadstring(game:HttpGet('https://pastebin.com/raw/1TKY86pG'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 wait(5)
 --[[
 loadstring(game:HttpGet('https://github.com/pawstep/scripts/raw/main/IA_AdminKick.lua'))()
