@@ -1,5 +1,5 @@
 -- Made for Ro-Chanics // https://www.roblox.com/games/2397424135/RC
--- Converted by using GUI to Lua v3.2
+-- Converted by using GUI to Lua v3.2!
 
 local RoChanicsAutoTPtoLabs = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
