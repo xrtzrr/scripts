@@ -554,7 +554,7 @@ local function TCQIGVT_fake_script()
 			hum2.WalkSpeed = _G.Speed
 		end)
 		hum2.WalkSpeed = _G.Speed
-	script.Parent.MouseButton1Click:connect(click)
+	script.Parent.MouseButton1Click:connect(TCQIGVT_fake_script)
 	end)
 end
 coroutine.wrap(TCQIGVT_fake_script)()
