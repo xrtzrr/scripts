@@ -181,7 +181,7 @@ Weapons.Parent = Frame
 Weapons.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
 Weapons.BackgroundTransparency = 0.300
 Weapons.BorderColor3 = Color3.fromRGB(170, 0, 0)
-Weapons.Position = UDim2.new(0.351694882, 0, 0.872729003, 0)
+Weapons.Position = UDim2.new(0.0269360244, 0, 0.872729003, 0)
 Weapons.Size = UDim2.new(0, 89, 0, 30)
 Weapons.Font = Enum.Font.Unknown
 Weapons.Text = "Gun (KILLS ROBOTS)"
@@ -311,23 +311,6 @@ Room4.TextWrapped = true
 
 UICorner_14.Name = " "
 UICorner_14.Parent = Room4
-
-Speed.Name = "Speed"
-Speed.Parent = Frame
-Speed.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
-Speed.BackgroundTransparency = 0.300
-Speed.BorderColor3 = Color3.fromRGB(170, 0, 0)
-Speed.Position = UDim2.new(0.0269360244, 0, 0.872729003, 0)
-Speed.Size = UDim2.new(0, 89, 0, 31)
-Speed.Font = Enum.Font.Unknown
-Speed.Text = "Speed     (PERMANENT UNTIL REJOIN)"
-Speed.TextColor3 = Color3.fromRGB(255, 0, 0)
-Speed.TextScaled = true
-Speed.TextSize = 14.000
-Speed.TextWrapped = true
-
-UICorner_15.Name = " "
-UICorner_15.Parent = Speed
 
 local function JQGEAG_fake_script()
 	local script = Instance.new('LocalScript', Frame)
@@ -528,33 +511,29 @@ local function ODTF_fake_script()
 end
 coroutine.wrap(ODTF_fake_script)()
 
-local function TCQIGVT_fake_script()
-	local script = Instance.new('Script', Speed)
 
-	_G.Speed = 25
-	
-	local plrserv = game:GetService("Players")
-	local plr = plrserv.LocalPlayer
-	local chr = plr.Character
-	
-	if chr then
-		local hum = chr.Humanoid
-		hum.Changed:connect(function()
-			hum.WalkSpeed = _G.Speed
-		end)
-		hum.WalkSpeed = _G.Speed
-	end
-	
-	
-	plr.CharacterAdded:connect(function(chr2)
-		chr = chr2
-		repeat wait() until chr:FindFirstChild("Humanoid")
-		local hum2 = chr2.Humanoid
-		hum2.Changed:connect(function()
-			hum2.WalkSpeed = _G.Speed
-		end)
-		hum2.WalkSpeed = _G.Speed
-	script.Parent.MouseButton1Click:connect(TCQIGVT_fake_script)
-	end)
+--[[
+_G.Speed = 25
+local plrserv = game:GetService("Players")
+local plr = plrserv.LocalPlayer
+local chr = plr.Character
+ 
+if chr then
+local hum = chr.Humanoid
+hum.Changed:connect(function()
+hum.WalkSpeed = _G.Speed
+end)
+hum.WalkSpeed = _G.Speed
 end
-coroutine.wrap(TCQIGVT_fake_script)()
+ 
+ 
+plr.CharacterAdded:connect(function(chr2)
+chr = chr2
+repeat wait() until chr:FindFirstChild("Humanoid")
+local hum2 = chr2.Humanoid
+hum2.Changed:connect(function()
+hum2.WalkSpeed = _G.Speed
+end)
+hum2.WalkSpeed = _G.Speed
+end)
+--]]
