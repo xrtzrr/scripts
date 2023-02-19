@@ -310,7 +310,7 @@ Room4.TextWrapped = true
 UICorner_14.Name = " "
 UICorner_14.Parent = Room4
 
-local function CGDGTFU_fake_script()
+local function KDFZDG_fake_script()
 	local script = Instance.new('LocalScript', Frame)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -353,8 +353,8 @@ local function CGDGTFU_fake_script()
 		end
 	end)
 end
-coroutine.wrap(CGDGTFU_fake_script)()
-local function XNQKOT_fake_script()
+coroutine.wrap(KDFZDG_fake_script)()
+local function TNCK_fake_script()
 	local script = Instance.new('Script', Data)
 
 	function click()
@@ -363,8 +363,8 @@ local function XNQKOT_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(XNQKOT_fake_script)()
-local function LTVU_fake_script()
+coroutine.wrap(TNCK_fake_script)()
+local function CVPERCL_fake_script()  
 	local script = Instance.new('Script', Coffee)
 
 	function click()
@@ -373,8 +373,8 @@ local function LTVU_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(LTVU_fake_script)()
-local function INEB_fake_script() 
+coroutine.wrap(CVPERCL_fake_script)()
+local function ZFFCXM_fake_script() 
 	local script = Instance.new('Script', Close)
 
 	function click()
@@ -383,8 +383,8 @@ local function INEB_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(INEB_fake_script)()
-local function QNHZBMN_fake_script() 
+coroutine.wrap(ZFFCXM_fake_script)()
+local function ZBLH_fake_script() 
 	local script = Instance.new('Script', Driver)
 
 	function click()
@@ -393,8 +393,8 @@ local function QNHZBMN_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(QNHZBMN_fake_script)()
-local function UEYOQ_fake_script()
+coroutine.wrap(ZBLH_fake_script)()
+local function LNOVVU_fake_script() 
 	local script = Instance.new('Script', Energy)
 
 	function click()
@@ -403,8 +403,8 @@ local function UEYOQ_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(UEYOQ_fake_script)()
-local function HGDIIK_fake_script() 
+coroutine.wrap(LNOVVU_fake_script)()
+local function GLLYF_fake_script() 
 	local script = Instance.new('Script', Drivers)
 
 	function click()
@@ -413,8 +413,8 @@ local function HGDIIK_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(HGDIIK_fake_script)()
-local function HJVL_fake_script() 
+coroutine.wrap(GLLYF_fake_script)()
+local function HIRFOW_fake_script()
 	local script = Instance.new('Script', Duplicator)
 
 	function click()
@@ -423,8 +423,8 @@ local function HJVL_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(HJVL_fake_script)()
-local function WVRZGE_fake_script()  
+coroutine.wrap(HIRFOW_fake_script)()
+local function PNSUKIG_fake_script()
 	local script = Instance.new('Script', Weapons)
 
 	function click()
@@ -433,8 +433,8 @@ local function WVRZGE_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(WVRZGE_fake_script)()
-local function NYCYYLP_fake_script()  
+coroutine.wrap(PNSUKIG_fake_script)()
+local function JXTZ_fake_script()
 	local script = Instance.new('Script', Healing)
 
 	function click()
@@ -443,18 +443,18 @@ local function NYCYYLP_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(NYCYYLP_fake_script)()
-local function OIZA_fake_script()  
+coroutine.wrap(JXTZ_fake_script)()
+local function RDTYTEA_fake_script()
 	local script = Instance.new('Script', Generator)
 
 	function click()
-		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-22, 4, 167)
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-81, 4, 251)
 	end
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(OIZA_fake_script)()
-local function OTDIAE_fake_script()  
+coroutine.wrap(RDTYTEA_fake_script)()
+local function YIQJOR_fake_script()
 	local script = Instance.new('Script', Room1)
 
 	function click()
@@ -463,8 +463,8 @@ local function OTDIAE_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(OTDIAE_fake_script)()
-local function TWHIFTH_fake_script()  
+coroutine.wrap(YIQJOR_fake_script)()
+local function FTCEO_fake_script()
 	local script = Instance.new('Script', Room2)
 
 	function click()
@@ -473,8 +473,8 @@ local function TWHIFTH_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(TWHIFTH_fake_script)()
-local function WMNMJYT_fake_script() 
+coroutine.wrap(FTCEO_fake_script)()
+local function TUZLIP_fake_script() 
 	local script = Instance.new('Script', Room3)
 
 	function click()
@@ -483,8 +483,8 @@ local function WMNMJYT_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(WMNMJYT_fake_script)()
-local function ZATIQFE_fake_script()  
+coroutine.wrap(TUZLIP_fake_script)()
+local function MLGAQHS_fake_script()
 	local script = Instance.new('Script', Room4)
 
 	function click()
@@ -493,4 +493,4 @@ local function ZATIQFE_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(ZATIQFE_fake_script)()
+coroutine.wrap(MLGAQHS_fake_script)()
