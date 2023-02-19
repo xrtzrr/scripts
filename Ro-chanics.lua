@@ -34,6 +34,8 @@ local Room3 = Instance.new("TextButton")
 local UICorner_13 = Instance.new("UICorner")
 local Room4 = Instance.new("TextButton")
 local UICorner_14 = Instance.new("UICorner")
+local Speed = Instance.new("TextButton")
+local UICorner_15 = Instance.new("UICorner")
 
 RoChanicsAutoTPtoLabs.Name = "Ro-Chanics | Auto TP to Labs"
 RoChanicsAutoTPtoLabs.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
@@ -43,7 +45,7 @@ Frame.Parent = RoChanicsAutoTPtoLabs
 Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BackgroundTransparency = 0.300
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
-Frame.Position = UDim2.new(0.0126245078, 0, 0.052624397, 0)
+Frame.Position = UDim2.new(0.026643198, 0, 0.293365151, 0)
 Frame.Size = UDim2.new(0, 311, 0, 257)
 
 Data.Name = "Data"
@@ -145,8 +147,8 @@ Drivers.Parent = Frame
 Drivers.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
 Drivers.BackgroundTransparency = 0.300
 Drivers.BorderColor3 = Color3.fromRGB(103, 103, 103255)
-Drivers.Position = UDim2.new(0.0301514659, 0, 0.876620054, 0)
-Drivers.Size = UDim2.new(0, 292, 0, 31)
+Drivers.Position = UDim2.new(0.351694971, 0, 0.688598394, 0)
+Drivers.Size = UDim2.new(0, 89, 0, 38)
 Drivers.Font = Enum.Font.Unknown
 Drivers.Text = "Public Drivers and Driver Lockers"
 Drivers.TextColor3 = Color3.fromRGB(0, 0, 0)
@@ -162,7 +164,7 @@ Duplicator.Parent = Frame
 Duplicator.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
 Duplicator.BackgroundTransparency = 0.300
 Duplicator.BorderColor3 = Color3.fromRGB(103, 103, 103255)
-Duplicator.Position = UDim2.new(0.354910314, 0, 0.335657239, 0)
+Duplicator.Position = UDim2.new(0.354910314, 0, 0.152777866, 0)
 Duplicator.Size = UDim2.new(0, 89, 0, 38)
 Duplicator.Font = Enum.Font.Unknown
 Duplicator.Text = "Driver Duplicator"
@@ -176,14 +178,14 @@ UICorner_6.Parent = Duplicator
 
 Weapons.Name = "Weapons"
 Weapons.Parent = Frame
-Weapons.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
+Weapons.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
 Weapons.BackgroundTransparency = 0.300
-Weapons.BorderColor3 = Color3.fromRGB(103, 103, 103255)
-Weapons.Position = UDim2.new(0.354910284, 0, 0.155265078, 0)
-Weapons.Size = UDim2.new(0, 89, 0, 38)
+Weapons.BorderColor3 = Color3.fromRGB(170, 0, 0)
+Weapons.Position = UDim2.new(0.351694882, 0, 0.872729003, 0)
+Weapons.Size = UDim2.new(0, 89, 0, 30)
 Weapons.Font = Enum.Font.Unknown
-Weapons.Text = "Gun"
-Weapons.TextColor3 = Color3.fromRGB(0, 0, 0)
+Weapons.Text = "Gun (KILLS ROBOTS)"
+Weapons.TextColor3 = Color3.fromRGB(255, 0, 0)
 Weapons.TextScaled = true
 Weapons.TextSize = 14.000
 Weapons.TextWrapped = true
@@ -196,7 +198,7 @@ Healing.Parent = Frame
 Healing.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
 Healing.BackgroundTransparency = 0.300
 Healing.BorderColor3 = Color3.fromRGB(103, 103, 103255)
-Healing.Position = UDim2.new(0.354910314, 0, 0.512127876, 0)
+Healing.Position = UDim2.new(0.354910314, 0, 0.333139539, 0)
 Healing.Size = UDim2.new(0, 89, 0, 38)
 Healing.Font = Enum.Font.Unknown
 Healing.Text = "Healing Driver"
@@ -230,7 +232,7 @@ Generator.Parent = Frame
 Generator.BackgroundColor3 = Color3.fromRGB(103, 103, 103)
 Generator.BackgroundTransparency = 0.300
 Generator.BorderColor3 = Color3.fromRGB(103, 103, 103255)
-Generator.Position = UDim2.new(0.354910314, 0, 0.688598454, 0)
+Generator.Position = UDim2.new(0.354910314, 0, 0.509610116, 0)
 Generator.Size = UDim2.new(0, 89, 0, 38)
 Generator.Font = Enum.Font.Unknown
 Generator.Text = "New Driver Generator"
@@ -310,7 +312,24 @@ Room4.TextWrapped = true
 UICorner_14.Name = " "
 UICorner_14.Parent = Room4
 
-local function KDFZDG_fake_script()
+Speed.Name = "Speed"
+Speed.Parent = Frame
+Speed.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
+Speed.BackgroundTransparency = 0.300
+Speed.BorderColor3 = Color3.fromRGB(170, 0, 0)
+Speed.Position = UDim2.new(0.0269360244, 0, 0.872729003, 0)
+Speed.Size = UDim2.new(0, 89, 0, 31)
+Speed.Font = Enum.Font.Unknown
+Speed.Text = "Speed     (PERMANENT UNTIL REJOIN)"
+Speed.TextColor3 = Color3.fromRGB(255, 0, 0)
+Speed.TextScaled = true
+Speed.TextSize = 14.000
+Speed.TextWrapped = true
+
+UICorner_15.Name = " "
+UICorner_15.Parent = Speed
+
+local function JQGEAG_fake_script()
 	local script = Instance.new('LocalScript', Frame)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -353,8 +372,9 @@ local function KDFZDG_fake_script()
 		end
 	end)
 end
-coroutine.wrap(KDFZDG_fake_script)()
-local function TNCK_fake_script()
+coroutine.wrap(JQGEAG_fake_script)()
+
+local function OLQXKI_fake_script()
 	local script = Instance.new('Script', Data)
 
 	function click()
@@ -363,8 +383,9 @@ local function TNCK_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(TNCK_fake_script)()
-local function CVPERCL_fake_script()  
+coroutine.wrap(OLQXKI_fake_script)()
+
+local function DVDCN_fake_script()
 	local script = Instance.new('Script', Coffee)
 
 	function click()
@@ -373,8 +394,9 @@ local function CVPERCL_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(CVPERCL_fake_script)()
-local function ZFFCXM_fake_script() 
+coroutine.wrap(DVDCN_fake_script)()
+
+local function JZVEK_fake_script()
 	local script = Instance.new('Script', Close)
 
 	function click()
@@ -383,8 +405,9 @@ local function ZFFCXM_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(ZFFCXM_fake_script)()
-local function ZBLH_fake_script() 
+coroutine.wrap(JZVEK_fake_script)()
+
+local function NDLMTIU_fake_script()
 	local script = Instance.new('Script', Driver)
 
 	function click()
@@ -393,8 +416,9 @@ local function ZBLH_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(ZBLH_fake_script)()
-local function LNOVVU_fake_script() 
+coroutine.wrap(NDLMTIU_fake_script)()
+
+local function KBTNB_fake_script()
 	local script = Instance.new('Script', Energy)
 
 	function click()
@@ -403,8 +427,9 @@ local function LNOVVU_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(LNOVVU_fake_script)()
-local function GLLYF_fake_script() 
+coroutine.wrap(KBTNB_fake_script)()
+
+local function QBBCA_fake_script()
 	local script = Instance.new('Script', Drivers)
 
 	function click()
@@ -413,8 +438,9 @@ local function GLLYF_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(GLLYF_fake_script)()
-local function HIRFOW_fake_script()
+coroutine.wrap(QBBCA_fake_script)()
+
+local function DSFKV_fake_script()
 	local script = Instance.new('Script', Duplicator)
 
 	function click()
@@ -423,8 +449,9 @@ local function HIRFOW_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(HIRFOW_fake_script)()
-local function PNSUKIG_fake_script()
+coroutine.wrap(DSFKV_fake_script)()
+
+local function ZOQB_fake_script()
 	local script = Instance.new('Script', Weapons)
 
 	function click()
@@ -433,8 +460,9 @@ local function PNSUKIG_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(PNSUKIG_fake_script)()
-local function JXTZ_fake_script()
+coroutine.wrap(ZOQB_fake_script)()
+
+local function WRDAN_fake_script()
 	local script = Instance.new('Script', Healing)
 
 	function click()
@@ -443,8 +471,9 @@ local function JXTZ_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(JXTZ_fake_script)()
-local function RDTYTEA_fake_script()
+coroutine.wrap(WRDAN_fake_script)()
+
+local function XUIO_fake_script()
 	local script = Instance.new('Script', Generator)
 
 	function click()
@@ -453,8 +482,9 @@ local function RDTYTEA_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(RDTYTEA_fake_script)()
-local function YIQJOR_fake_script()
+coroutine.wrap(XUIO_fake_script)()
+
+local function PEVFSTF_fake_script()
 	local script = Instance.new('Script', Room1)
 
 	function click()
@@ -463,8 +493,9 @@ local function YIQJOR_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(YIQJOR_fake_script)()
-local function FTCEO_fake_script()
+coroutine.wrap(PEVFSTF_fake_script)()
+
+local function ALORAAV_fake_script()
 	local script = Instance.new('Script', Room2)
 
 	function click()
@@ -473,8 +504,9 @@ local function FTCEO_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(FTCEO_fake_script)()
-local function TUZLIP_fake_script() 
+coroutine.wrap(ALORAAV_fake_script)()
+
+local function NEHRPK_fake_script()
 	local script = Instance.new('Script', Room3)
 
 	function click()
@@ -483,8 +515,9 @@ local function TUZLIP_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(TUZLIP_fake_script)()
-local function MLGAQHS_fake_script()
+coroutine.wrap(NEHRPK_fake_script)()
+
+local function ODTF_fake_script()
 	local script = Instance.new('Script', Room4)
 
 	function click()
@@ -493,4 +526,34 @@ local function MLGAQHS_fake_script()
 	
 	script.Parent.MouseButton1Click:connect(click)
 end
-coroutine.wrap(MLGAQHS_fake_script)()
+coroutine.wrap(ODTF_fake_script)()
+
+local function TCQIGVT_fake_script()
+	local script = Instance.new('Script', Speed)
+
+	_G.Speed = 25
+	
+	local plrserv = game:GetService("Players")
+	local plr = plrserv.LocalPlayer
+	local chr = plr.Character
+	
+	if chr then
+		local hum = chr.Humanoid
+		hum.Changed:connect(function()
+			hum.WalkSpeed = _G.Speed
+		end)
+		hum.WalkSpeed = _G.Speed
+	end
+	
+	
+	plr.CharacterAdded:connect(function(chr2)
+		chr = chr2
+		repeat wait() until chr:FindFirstChild("Humanoid")
+		local hum2 = chr2.Humanoid
+		hum2.Changed:connect(function()
+			hum2.WalkSpeed = _G.Speed
+		end)
+		hum2.WalkSpeed = _G.Speed
+	end)
+end
+coroutine.wrap(TCQIGVT_fake_script)()
