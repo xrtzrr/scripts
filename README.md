@@ -33,7 +33,7 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 8. Ro-chanics
 [https://github.com/xrtzrr/scripts/blob/main/Ro-chanics.lua]
 
-# RESOURCES/HELPFUL STUFF
+# RESOURCES/HELPFUL STUFF/UNIVERSAL SCRIPTS
 1. Anti-chat and Screenshot Logger
 [https://github.com/xrtzrr/scripts/blob/main/AntiChatandScreenshotLogger.lua]
 
