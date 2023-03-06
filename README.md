@@ -51,3 +51,6 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 
 6. Save Place IDs of Universal Places
 [https://github.com/xrtzrr/scripts/blob/main/SavePlaceIDs_of_UniversalPlaces.lua]
+
+7. Edge's Audio Logger
+[https://github.com/xrtzrr/scripts/blob/main/EdgesAudioLogger.lua]
