@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/urvzBY4a"))()
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 --loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/Jenga.lua'))()
 --https://www.roblox.com/games/2537430692/Jenga
 
