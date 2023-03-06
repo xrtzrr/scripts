@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/urvzBY4a'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 --< https://www.roblox.com/games/192800/WaaPP
 --< Works only on players that arent setting / use big scales for it to work better, works best on synapse
 
