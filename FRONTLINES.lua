@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
+loadstring(game:HttpGet("https://pastebin.com/raw/urvzBY4a"))()
 --Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/FRONTLINES.lua'))()
 
 
