@@ -1,5 +1,5 @@
 --NOT MADE BY ME!!!
---loadstring(game:HttpGet('https://raw.githubusercontent.com/xtrzrr/scripts/main/Car%20Crash%20System.lua'))()
+--loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/CarCrashSystem.lua'))()
 --https://www.roblox.com/games/9601565001/CCS
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
