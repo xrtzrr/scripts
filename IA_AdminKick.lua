@@ -1,8 +1,8 @@
 --Credits
-loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
+loadstring(game:HttpGet("https://pastebin.com/raw/urvzBY4a"))()
 wait(5)
 --[[
-loadstring(game:HttpGet('https://github.com/pawstep/scripts/raw/main/IA_AdminKick.lua'))()
+loadstring(game:HttpGet('https://github.com/xrtzrr/scripts/raw/main/IA_AdminKick.lua'))()
 https://www.roblox.com/games/5670218884/IA
 Kicks you out of the game automatically if an item asylum admin/headadmin/developer joins in-game, can also kick you if a roblox QA tester or admin joins.
 The list will be updated if necessary, i'm not going to add contributors or testers, they won't do any good.
@@ -18,20 +18,21 @@ Players = game:GetService"Players"
 Names = {
 --  Music Developers [1]:
     "LEBWEE",
---  Admins List [14]:
-    "FormalNoob",
+--  Admins List [8]:
+--  "D1s_c",
+--  "SniffE_Boi",
+--  "OriginallyKosar",
+--  "Nanachiiky",
+--  "TrixisDev",
+--  "FormalNoob",
+--  "Acorlan",
+    "JonathanFoxx", --New admin lol, i guess those 7 people who got fired weren't enough!
     "Iei5h",
-    "Acorlan",
     "NFKitsune",
-    "D1s_c",
     "TazNova",
     "TheLunaticSome",
     "TimidNomf",
     "Siterior",
-    "SniffE_Boi",
-    "OriginallyKosar",
-    "Nanachiiky",
-    "TrixisDev",
     "Lovely_Sammer",
 --  HeadAdmin List [2]:
     "Weko",
