@@ -27,11 +27,11 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 6. Dig to China
 [https://github.com/xrtzrr/scripts/blob/main/DigToChina.lua]
 
-7. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
-[.....................................................]
+7. FRONTLINES
+[https://github.com/xrtzrr/scripts/blob/main/FRONTLINES.lua]
 
-8. SCRIPT WAS DELETED, NOT AVAILABLE, WILL REPLACE SOON
-[.....................................................]
+8. Ro-chanics
+[https://github.com/xrtzrr/scripts/blob/main/Ro-chanics.lua]
 
 # RESOURCES/HELPFUL STUFF
 1. Anti-chat and Screenshot Logger
@@ -49,5 +49,5 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 5. Loop Fire All Promixity Prompts
 [https://github.com/xrtzrr/scripts/blob/main/LoopFireAllProximityPrompts.lua]
 
-6. Save Place IDs
-[https://github.com/xrtzrr/scripts/blob/main/SavePlaceIDs.lua]
+6. Save Place IDs of Universal Places
+[https://github.com/xrtzrr/scripts/blob/main/SavePlaceIDs_of_UniversalPlaces.lua]
