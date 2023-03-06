@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/urvzBY4a"))()
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 --> Made for Ro-Chanics // https://www.roblox.com/games/2397424135/RC
 --> Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/xrtzrr/scripts/main/Ro-chanics.lua"))()
 --> Converted by using GUI to Lua v3.2!
