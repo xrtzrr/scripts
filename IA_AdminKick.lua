@@ -18,15 +18,14 @@ Players = game:GetService"Players"
 Names = {
 --  Music Developers [1]:
     "LEBWEE",
---  Admins List [8]:
---  "D1s_c",
---  "SniffE_Boi",
---  "OriginallyKosar",
---  "Nanachiiky",
---  "TrixisDev",
---  "FormalNoob",
---  "Acorlan",
-    "JonathanFoxx", --New admin lol, i guess those 7 people who got fired weren't enough!
+--  Moderators [5]:
+    "Candle_Pastries",
+    "Lanternsaurus",
+    "dilbertron2",
+    "loosefreak"
+    "Emerald_Plasma"
+--  Admins [8]:
+    "JonathanFoxx",
     "Iei5h",
     "NFKitsune",
     "TazNova",
@@ -34,16 +33,24 @@ Names = {
     "TimidNomf",
     "Siterior",
     "Lovely_Sammer",
---  HeadAdmin List [2]:
+--  HeadAdmins [2]:
     "Weko",
     "Pixelmen360",
---  Developer List [3]:
+--  Developers [3]:
     "JeanRBLX",
     "PortABoi",
     "Xerroz"
---  Count: 20 people in total
-}
+--  Count: 19 people in total
 
+-- > Past Staff:
+--  >  D1s_c (Admin)
+--  >  SniffE_Boi (Admin)
+--  >  OriginallyKosar (Admin)
+--  >  Nanachiiky (Admin)
+--  >  TrixisDev (Admin)
+--  >  FormalNoob (Admin)
+--  >  Acorlan (Admin)
+}
 local function Check(Player)
     for _,GroupId in {
         1200769,
