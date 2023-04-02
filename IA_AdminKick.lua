@@ -26,7 +26,7 @@ Names = {
     "loosefreak"
     "Emerald_Plasma"
 
---  Adminstrators [8]:
+--  Administrator [8]:
     "JonathanFoxx",
     "Iei5h",
     "NFKitsune",
@@ -36,7 +36,7 @@ Names = {
     "Siterior",
     "Lovely_Sammer",
 
---  Head Adminstrators [2]:
+--  Head Administrators [2]:
     "Weko",
     "Pixelmen360",
 
@@ -46,13 +46,13 @@ Names = {
     "Xerroz",
 
 -- Other Staff [7]:
-    "D1s_c", -- Past Admin
-    "SniffE_Boi", -- Past Admin
-    "OriginallyKosar", -- Past Admin
-    "Nanachiiky", -- Past Admin
-    "TrixisDev", -- Past Admin
-    "FormalNoob", -- Past Admin
-    "Acorlan" -- Past Admin
+    "D1s_c", -- Past Administrator
+    "SniffE_Boi", -- Past Administrator
+    "OriginallyKosar", -- Past Administrator
+    "Nanachiiky", -- Past Administrator
+    "TrixisDev", -- Past Administrator
+    "FormalNoob", -- Past Administrator
+    "Acorlan" -- Past Administrator
 -- Adding previous admins here because they probably have relations with staff and can probably report you to the current game moderators.
 
 -- Total people (current moderators): 19
@@ -71,7 +71,8 @@ local function Check(Player)
     } do
         task.spawn(function()
             if table.find(Names,Player.Name) or Player:IsInGroup(GroupId) then
-                game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
+                -- game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
+                game:Shutdown()
             end
         end)
     end
@@ -84,7 +85,8 @@ local function Check(Player)
         } do
             task.spawn(function()
                 if Character:WaitForChild(AccessoryName,10) then
-                    game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
+                -- game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
+                game:Shutdown()
                 end
             end)
         end
