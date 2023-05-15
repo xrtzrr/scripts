@@ -1,5 +1,5 @@
 --< ANTI CHAT AND SCREENSHOT LOGGER FOR ROBLOX ADMINS [WORKS ON ANY GAME UNLESS THE CHAT DOES NOT EXIST]
---< Have fun! loadstring(game:HttpGet("https://raw.githubusercontent.com/Pawstep/scripts/main/AntiChatandScreenshotLogger.lua"))()
+--< Have fun! loadstring(game:HttpGet("https://raw.githubusercontent.com/xrtzrr/scripts/main/AntiChatandScreenshotLogger.lua"))()
 
 if not game:IsLoaded() then
     game.Loaded:wait()
@@ -296,7 +296,7 @@ wait(5)
 local cg = game:GetService("StarterGui")
 cg:SetCore("SendNotification", {
     Title = "Loaded anti-chatlogger!";
-    Text = "Made by Pawstep on github.";
+    Text = "Made by xrtzrr on github.";
     Duration = 25;
 })
 print(string.format("Anti Chat-Logger has loaded in %s seconds.", tostring(tick() - ACL_LoadTime):sub(1, 4)))
