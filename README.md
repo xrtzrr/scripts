@@ -54,3 +54,6 @@ If you want to contact me for any concerns, here's my Discord. http://discord.co
 
 7. Edge's Audio Logger
 [https://github.com/xrtzrr/scripts/blob/main/EdgesAudioLogger.lua]
+
+8. In-game UGC Sniper
+[https://github.com/xrtzrr/scripts/blob/main/In-GameUGCSniper.lua]
