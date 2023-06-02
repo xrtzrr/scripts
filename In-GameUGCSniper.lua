@@ -9,7 +9,7 @@ Other things that might help you:
 
 --]]
 
-local id = 13612768756 --Item ID goes here!
+local id = 0 --Item ID goes here!
 local ms = game:GetService("MarketplaceService")
 local plr = game.Players.LocalPlayer
 ms:PromptPurchase(plr, id)
