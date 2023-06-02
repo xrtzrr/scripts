@@ -9,8 +9,24 @@ Other things that might help you:
 
 --]]
 
-local id = 0 --Item ID goes here!
+local id = 13612768756 --Item ID goes here!
 local ms = game:GetService("MarketplaceService")
 local plr = game.Players.LocalPlayer
 ms:PromptPurchase(plr, id)
 -- Made by Yaf#4920 (Github: xrtzrr) 🐈
+
+
+
+--[[
+
+        Another method incase they try to patch it, lol.
+
+    while wait() do
+    for i = 1, 3 do
+        print("Loading" .. string.rep(".", i))
+        wait(0.5) 
+        game:GetService("MarketplaceService"):PromptPurchase(plr, id)
+    end
+end
+
+--]]
