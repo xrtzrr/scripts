@@ -16,41 +16,44 @@ end
 
 Players = game:GetService"Players"
 Names = {
---  Music Developers [1]:
-    "LEBWEE",
+--  Moderators [3]:
+    "loosefreak",
+    "EquusQuagga",
+    "DJSpaceInvaderz",
 
---  Moderators [5]:
-    "Candle_Pastries",
-    "Lanternsaurus",
+--  Administrators [9]:
+    "Candle_Pastries", -- Past Moderator (Promoted)
+    "Emerald_Plasma", -- Past Moderator (Promoted)
+    "dilbertron2", -- Past Moderator (Promoted)
+    "TazNova",
+    "TheLunaticSome",
+    "Rikkanashiii",
     "dilbertron2",
-    "loosefreak"
-    "Emerald_Plasma"
-
---  Administrator [8]:
     "JonathanFoxx",
     "Iei5h",
     "NFKitsune",
     "TazNova",
-    "TheLunaticSome",
     "TimidNomf",
     "Siterior",
     "Lovely_Sammer",
 
---  Head Administrators [2]:
-    "Weko",
+--  Head Administrators [1]:
     "Pixelmen360",
 
 --  Game Developers [3]:
     "JeanRBLX",
     "PortABoi",
     "Xerroz",
+    "LEBWEE",  -- Past Music Developer (I have no idea why this nigga went to Music Developer to Game Developer but ok LOL)
 
 -- Other Staff [7]:
+    "Weko", -- Past Head Administrator (?)
+    "Lanternsaurus", -- Past Moderator
     "D1s_c", -- Past Administrator
     "SniffE_Boi", -- Past Administrator
     "OriginallyKosar", -- Past Administrator
     "Nanachiiky", -- Past Administrator
-    "TrixisDev", -- Past Administrator
+    "TrixisDev", -- Past Administrator and Pedophile (Rumored XD)
     "FormalNoob", -- Past Administrator
     "Acorlan" -- Past Administrator
 -- Adding previous admins here because they probably have relations with staff and can probably report you to the current game moderators.
