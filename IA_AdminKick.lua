@@ -49,18 +49,18 @@ Names = {
 
 -- Other Staff [7]:
     "Weko", -- Past Head Administrator (?)
+    "TrixisDev", -- Past Administrator and Pedophile (Rumored XD)
     "Lanternsaurus", -- Past Moderator
     "D1s_c", -- Past Administrator
     "SniffE_Boi", -- Past Administrator
     "OriginallyKosar", -- Past Administrator
     "Nanachiiky", -- Past Administrator
-    "TrixisDev", -- Past Administrator and Pedophile (Rumored XD)
     "FormalNoob", -- Past Administrator
     "Acorlan" -- Past Administrator
 -- Adding previous admins here because they probably have relations with staff and can probably report you to the current game moderators.
 
--- Total people (current moderators): 19
--- Total count (including past staff): 26
+-- Total people (current moderators): 16
+-- Total count (including past staff): 23
 }
 
 local function Check(Player)
