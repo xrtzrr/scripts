@@ -27,10 +27,7 @@ If you want to contact me for any concerns, my Discord is paw#4920. (still works
 6. Dig to China
 [https://github.com/xrtzrr/scripts/blob/main/DigToChina.lua]
 
-7. FRONTLINES
-[https://github.com/xrtzrr/scripts/blob/main/FRONTLINES.lua]
-
-8. Ro-chanics
+7. Ro-chanics
 [https://github.com/xrtzrr/scripts/blob/main/Ro-chanics.lua]
 
 # RESOURCES/HELPFUL STUFF/UNIVERSAL SCRIPTS
