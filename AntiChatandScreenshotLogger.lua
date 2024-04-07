@@ -1,6 +1,6 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
---< ANTI CHAT AND SCREENSHOT LOGGER FOR ROBLOX ADMINS [WORKS ON ANY GAME UNLESS THE CHAT IS DISABLED]
 --< Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/xrtzrr/scripts/main/AntiChatandScreenshotLogger.lua"))()
+--< Game: Universal
+--< Functionality: Anti-Chat and Anti-Screenshot Logger for ROBLOX Admins [WORKS ON ANY GAME UNLESS THE CHAT IS DISABLED]
 
 if not game:IsLoaded() then
     game.Loaded:wait()
@@ -296,8 +296,8 @@ end
 wait(5)
 local cg = game:GetService("StarterGui")
 cg:SetCore("SendNotification", {
-    Title = "Loaded anti-chatlogger!";
-    Text = "Made by xrtzrr on github.";
+    Title = "Loaded Anti-Chatlogger!";
+    Text = "Made by xrtzrr on Github.";
     Duration = 25;
 })
 print(string.format("Anti Chat-Logger has loaded in %s seconds.", tostring(tick() - ACL_LoadTime):sub(1, 4)))
