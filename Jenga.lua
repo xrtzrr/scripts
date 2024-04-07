@@ -1,6 +1,7 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
---loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/Jenga.lua'))()
---https://www.roblox.com/games/2537430692/Jenga
+--< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/Jenga.lua'))()
+--< Game: https://www.roblox.com/games/2537430692/Jenga
+--< Functionality: Allows you to cheat on the game by winning the game itself, & more.
 
 
 --// Locals
