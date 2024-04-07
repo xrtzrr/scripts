@@ -1,6 +1,8 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
---To edit speed, check out this pastebin first which has speed editing along with the loadstring:
---https://pastebin.com/raw/V6x2NzA2
+--< Loadstring: Has a loadstring, but you need to edit. To edit speed, check out this pastebin first which has speed editing along with the loadstring: https://pastebin.com/raw/V6x2NzA2
+--< Game: Universal
+--< Functionality: Allows you to walk quickly inside a game, and does not reset even if the game forces your speed to a specific number.
+--< Some anti-cheat scripts built in-game may detect this. The script doesn't end until you leave the game.
 
 
 -- Locals
