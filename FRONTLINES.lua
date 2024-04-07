@@ -1,5 +1,6 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/urvzBY4a"))()
---Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/FRONTLINES.lua'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
+--< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/FRONTLINES.lua'))()
+--< Game: https://www.roblox.com/games/5938036553/Frontlines
 
 
 _G.ESP = {
