@@ -1,5 +1,4 @@
-loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
---Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/EdgesAudioLogger.lua'))()
+--< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/EdgesAudioLogger.lua'))()
 
 aa = game:GetObjects("rbxassetid://01997056190")[1]
 aa.Parent = game.CoreGui
