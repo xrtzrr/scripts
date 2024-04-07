@@ -1,6 +1,5 @@
---NOT MADE BY ME!!!
---loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/CarCrashSystem.lua'))()
---https://www.roblox.com/games/9601565001/CCS
+--< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/CarCrashSystem.lua'))()
+--< Game: https://www.roblox.com/games/9601565001/CCS
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Car Crash System", "BloodTheme")
