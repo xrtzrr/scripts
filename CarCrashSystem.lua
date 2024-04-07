@@ -1,6 +1,7 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 --< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/CarCrashSystem.lua'))()
 --< Game: https://www.roblox.com/games/9601565001/CCS
+--< Functionality: Basically unlocks every paid gamepass cars, lol.
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Car Crash System", "BloodTheme")
