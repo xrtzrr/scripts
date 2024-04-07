@@ -1,7 +1,7 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
---Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/DigToChina.lua'))()
---https://www.roblox.com/games/8506369721/dtc
---Wait until timer hits 00:00 and you will get to China.
+--< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/DigToChina.lua'))()
+--< Game: https://www.roblox.com/games/8506369721/DtC
+--< Wait until timer hits 00:00 and you will get to China.
 
 
 local p=game.Players.LocalPlayer
