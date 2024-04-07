@@ -1,7 +1,7 @@
 loadstring(game:HttpGet('https://pastebin.com/raw/tZJF8g3K'))()
 --< Loadstring: loadstring(game:HttpGet('https://raw.githubusercontent.com/xrtzrr/scripts/main/FRONTLINES.lua'))()
 --< Game: https://www.roblox.com/games/5938036553/Frontlines
-
+--< Functionality: ESP for the Roblox game "Frontlines".
 
 _G.ESP = {
     Boxes = true,
