@@ -16,55 +16,59 @@ end
 
 Players = game:GetService"Players"
 Names = {
---  Trial Moderators (i think they got perms.) [7]:
-    "raaymaark", -- Past Administrator, Demoted to Trial Moderator LOL. Old username: Iei5h
-    "HyoreiNeko",
-    "ka_zena",
-    "Chill_yz",
-    "ChlomakiTheWitch",
-    "theYurizone",
-    "Rivrax6",
+--  Trial Moderators (i think they got perms.) [2]:
+    "pokemonfan61980", -- New trial moderator
+    "RG_Amber", -- New trial moderator
 
---  Moderators [1]:
-    "Enestarhan2018", -- They really demoted the entire moderator team to leave this nigga here, LOL..
-
---  Administrators [8]:
-    "Candle_Pastries", -- Past Moderator (Promoted)
-    "Emerald_Plasma", -- Past Moderator (Promoted)
-    "dilbertron2", -- Past Moderator (Promoted)
-    "OriginallyKosar", -- Past Administrator, Demoted, then Promoted to Admin (Nigga what???)
-    "StygianArmor", -- who tf this nigga?
+--  Server & Game Moderators [0]:
+    
+    
+--  Administrators [12]:
+    "OriginallyKosar", -- Past Administrator, Demoted, then Promoted to Admin
+    "StygianArmor",
     "TazNova",
     "TheLunaticSome",
     "Rikkanashiii",
-    "JonathanFoxx",
-    "Lovely_Sammer",
+    "Rivrax6", -- Past Trial Moderator (Promoted)
+    "ka_zena", -- Past Trial Moderator (Promoted)
+    "HyoreiNeko", -- Past Trial Moderator (Promoted)
+    "Chill_yz", -- Past Trial Moderator (Promoted)
+    "theYurizone", -- Past Trial Moderator (Promoted)
+    "Candle_Pastries", -- Past Moderator (Promoted)
+    "Scythecel", -- Past Moderator & Trial Moderator (Promoted) Old username: ChlomakiTheWitch
 
 --  Head Administrators [2]:
-    "Emerald_Plasma",
+    "Emerald_Plasma", -- Past Moderator & Administrator (Promoted)
     "cowoika",
 
---  "Assistant" (nigga tf u want more roles for? prob testers.) [6]:
-    "XDavodioX",
+--  "Assistant" (unneeded ass role) [3]:
     "fiveplutos",
-    "BeezelduD",
-    "Tidyen",
     "ExpressTrainToHell",
+    "Blithwin", -- New assistant
 
---  Game Developers [5]:
+--  Game Developers [4]:
     "JeanRBLX", -- Holder for group.
-    "LEBWEE",  -- Past Music Developer (I have no idea why this nigga went to Music Developer to Game Developer but ok LOL)
-    "Siterior", -- Past Administrator promoted to Game Developer lmfao
+    "LEBWEE",  -- Past Music Developer
+    "Siterior", -- Past Administrator promoted to Game Developer
     "PortABoi",
-    "Xerroz",
 
--- Other Staff [15]:
+-- Adding previous admins here because they probably have relations with staff and can probably report you to the current game moderators.
+-- Other Staff [24]:
+    "dilbertron2", -- Past Moderator, Promoted to Administrator, then left JPX for unknown reasons.
+    "JonathanFoxx", -- Administrator, Demoted to Tester, lol
+    "Lovely_Sammer", -- Administrator, Demoted to Tester, lol
+    "Enestarhan2018", --  Former Moderator, Demoted to Respected LOL.
+    "Xerroz", -- Left JPX Studios (RIP, he was a good guy and one of the main devs.)
+    "XDavodioX", -- Got demoted from Assistant to Contributor, lol
+    "BeezelduD", -- Got demoted from Assistant to Contributor, lol
+    "Tidyen", -- Got demoted from Assistant to Contributor, lol
     "Weko", -- Past Head Administrator demoted to Member, hah!
     "TrixisDev", -- Past Administrator and Pedophile (Rumored XD)
     "Pixelmen360", -- Past Head Administrator (no idea why the fuck he got fired..)
-    "TimidNomf", -- Past Administrator, Demoted to Member, fuck off you kemono-head wearer. (he probably groomed little children ngl.)
+    "TimidNomf", -- Past Administrator, Demoted to Member, fuck off you kemono-head wearer. (probably a child groomer ngl.)
     "Lanternsaurus", -- Past Moderator
     "D1s_c", -- Past Administrator
+    "raaymaark", -- Past Administrator, Demoted to Trial Moderator, then Demoted to Member. RIP. Old username: Iei5h
     "SniffE_Boi", -- Past Administrator
     "Nanachiiky", -- Past Administrator
     "FormalNoob", -- Past Administrator
@@ -74,9 +78,14 @@ Names = {
     "EquusQuagga", -- Past Moderator, haha
     "DJSpaceInvaderz", -- Past Moderator, haha
     "NFKitsune" -- Past Administrator
--- Adding previous admins here because they probably have relations with staff and can probably report you to the current game moderators.
 
--- Total stupid fucking moderators: a WHOPPING 44 MODERATORS from last time being like 24 god fucking damn LOL
+-- Total staff team (including ex-staff): 47
+-- Total staff team (not including ex-staff): 23
+
+
+
+
+-- This is for QA testers (Kind of like Roblox staff), this is to ensure you don't get terminated, not from the game, but Roblox.
 }
 
 local function Check(Player)
@@ -91,8 +100,8 @@ local function Check(Player)
     } do
         task.spawn(function()
             if table.find(Names,Player.Name) or Player:IsInGroup(GroupId) then
-                -- game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
-                game:Shutdown()
+                game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
+                -- game:Shutdown()
             end
         end)
     end
@@ -105,8 +114,8 @@ local function Check(Player)
         } do
             task.spawn(function()
                 if Character:WaitForChild(AccessoryName,10) then
-                -- game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
-                game:Shutdown()
+                game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
+                -- game:Shutdown()
                 end
             end)
         end
