@@ -20,53 +20,54 @@ end
 
 Players = game:GetService"Players"
 Names = {
---  Trial Moderators [2]:
-    "pokemonfan61980", -- New Trial Moderator
-    "RG_Amber", -- New Trial Moderator
-
---  Server & Game Moderators [0]:
+--  Trial Moderators [0]:
     
+--  Server & Game Moderators [1]:
+    "StygianArmor", -- Was a Administrator, but got demoted back to being a Server Moderator
     
---  Administrators [12]:
+--  Administrators [13]:
+    "Lovely_Sammer", -- Administrator, Demoted to Tester, then Promoted back to Administrator
+    "aateeer" -- New Administrator
+    "DatGuyFromSg1" -- New Administrator
+    "RG_Amber", -- Trial Moderator, Promoted to Administrator
+    "pokemonfan61980", -- Trial Moderator, Promoted to Administrator
     "OriginallyKosar", -- Past Administrator, Demoted, then Promoted to Admin
-    "StygianArmor",
-    "TazNova",
-    "TheLunaticSome",
-    "Rikkanashiii",
     "Rivrax6", -- Past Trial Moderator, Promoted to Administrator
-    "ka_zena", -- Past Trial Moderator, Promoted to Administrator
-    "HyoreiNeko", -- Past Trial Moderator, Promoted to Administrator
     "Chill_yz", -- Past Trial Moderator, Promoted to Administrator
     "theYurizone", -- Past Trial Moderator, Promoted to Administrator
     "Candle_Pastries", -- Past Moderator, Promoted to Administrator
-    "Scythecel", -- Trial Moderator & Past Moderator, then Promoted to Admin | Old username: ChlomakiTheWitch
-
---  Head Administrators [2]:
+    "TazNova", -- Still an Administrator
+    "TheLunaticSome", -- Still an Administrator
+    "Rikkanashiii", -- Still an Administrator
+    
+--  Head Administrators [1]:
     "Emerald_Plasma", -- Past Moderator & Administrator, Promoted to Head Administrator
-    "cowoika",
-
+    
 --  Assistant [3]:
-    "fiveplutos",
-    "ExpressTrainToHell",
-    "Blithwin", -- New assistant
-
---  Game Developers [4]:
+    "ka_zena", -- Past Trial Moderator, Promoted to Administrator, then Promoted to Assistant
+    "fiveplutos", -- Still a Assistant
+    "ExpressTrainToHell", -- Still a Assistant
+    
+--  Game Developers [5]:
     "JeanRBLX", -- Group Holder
+    "cowoika", -- Was a Head Adminstrator, then Promoted to Developer
     "LEBWEE",  -- Past Music Developer, Promoted to Game Developer
     "Siterior", -- Past Administrator, Promoted to Game Developer
-    "PortABoi",
-
+    "PortABoi", -- Still a Game Developer
+    
 -- Adding previous admins here because they probably have relations with staff and can probably report you to the current game moderators.
--- Other Staff [24]:
+-- Other Staff [26]:
+    "Blithwin", -- Past Assistant, Demoted to Tester
+    "HyoreiNeko", -- Past Trial Moderator, Promoted to Administrator, then Demoted to Respected
+    "Scythecel", -- Trial Moderator & Past Moderator, then Promoted to Admin, then demoted to Contributor | Old username: ChlomakiTheWitch
     "dilbertron2", -- Past Moderator, Promoted to Administrator, then left JPX for unknown reasons.
     "JonathanFoxx", -- Administrator, Demoted to Tester
-    "Lovely_Sammer", -- Administrator, Demoted to Tester
     "Enestarhan2018", --  Former Moderator, Demoted to Respected
-    "Xerroz", -- Left JPX Studios | RIP, he was a good guy and one of the main devs.
-    "XDavodioX", -- Got demoted from Assistant to Contributor
-    "BeezelduD", -- Got demoted from Assistant to Contributor
-    "Tidyen", -- Got demoted from Assistant to Contributor
-    "Weko", -- Past Head Administrator demoted to Member
+    "Xerroz", -- Left JPX Studios | RIP, he was a good guy and one of the main devs
+    "XDavodioX", -- Past Assistant to Contributor
+    "BeezelduD", -- Past Assistant to Contributor
+    "Tidyen", -- Past Assistant to Contributor
+    "Weko", -- Past Head Administrator demoted to Member | Allegedly abused his gf, wypher, the furry artist (Allegedly!)
     "TrixisDev", -- Past Administrator | and also a Pedophile (Allegedly!)
     "Pixelmen360", -- Past Head Administrator
     "TimidNomf", -- Past Administrator, Demoted to Member | Kemono-head wearer (ew.)
@@ -82,18 +83,16 @@ Names = {
     "EquusQuagga", -- Past Moderator
     "DJSpaceInvaderz", -- Past Moderator
     "NFKitsune" -- Past Administrator
-
--- Total Staff team (including ex-staff): 47
+    
+-- Total Staff team (including ex-staff): 49
 -- Total Staff team (not including ex-staff): 23
-
 
 
 
 -- This is for QA testers (Kind of like Roblox staff), this is to ensure you don't get terminated, not from the game, but Roblox.
 }
-
-local function Check(Player)
-    for _,GroupId in {
+local function check(p)
+    for _,id in {
         1200769,
         3055661,
         3253689,
@@ -103,29 +102,28 @@ local function Check(Player)
         14593111
     } do
         task.spawn(function()
-            if table.find(Names,Player.Name) or Player:IsInGroup(GroupId) then
-                game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
-                -- game:Shutdown()
+            if table.find(Names, p.Name) or p:IsInGroup(id) then
+                game:Shutdown("A Roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
             end
         end)
     end
     task.spawn(function()
-        Character = Player.Character or Player.CharacterAdded:Wait()
+        ch = p.ch or p.CharacterAdded:Wait()
         for _,AccessoryName in {
             "Valiant Top Hat of Testing",
             "Thoroughly-Tested Hat of QA",
             "Valiant Valkyrie of Testing"
         } do
             task.spawn(function()
-                if Character:WaitForChild(AccessoryName,10) then
-                game:Shutdown("A game/roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
-                -- game:Shutdown()
+                if ch:WaitForChild(AccessoryName, 10) then
+                game:Shutdown("A Roblox admin and/or a QA tester has joined your game! Be careful next time when exploiting.")
                 end
             end)
         end
     end)
 end
-Players.PlayerAdded:Connect(Check)
-for _,Player in Players:GetPlayers() do
-    Check(Player)
+
+Players.PlayerAdded:Connect(check)
+for _,p in Players:GetPlayers() do
+    check(p)
 end
