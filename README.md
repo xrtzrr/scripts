@@ -29,7 +29,7 @@ For now that's sort of.. it, i guess.. I will be updating this alot though when 
 7. Ro-chanics
 [https://github.com/xrtzrr/scripts/blob/main/Ro-chanics.lua]
 
-# RESOURCES/HELPFUL STUFF/UNIVERSAL SCRIPTS
+# RESOURCES/UNIVERSAL SCRIPTS
 1. Anti-chat and Screenshot Logger
 [https://github.com/xrtzrr/scripts/blob/main/AntiChatandScreenshotLogger.lua]
 
