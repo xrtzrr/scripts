@@ -67,7 +67,7 @@ Names = {
     "XDavodioX", -- Past Assistant to Contributor
     "BeezelduD", -- Past Assistant to Contributor
     "Tidyen", -- Past Assistant to Contributor
-    "Weko", -- Past Head Administrator demoted to Member | Allegedly abused his gf, wypher, the furry artist (Allegedly!)
+    "Weko", -- Past Head Administrator demoted to Member
     "TrixisDev", -- Past Administrator | and also a Pedophile (Allegedly!)
     "Pixelmen360", -- Past Head Administrator
     "TimidNomf", -- Past Administrator, Demoted to Member | Kemono-head wearer (ew.)
